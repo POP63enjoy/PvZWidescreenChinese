@@ -20,7 +20,7 @@ Define WidthList
     14,   8,   9,  12,  13,  13,  13,  13,  13,  13,  17,  14,  11,  11,  11,  11,
      7,   7,   7,   7,  11,  13,  11,  11,  11,  11,  11,  15,  13,  13,  13,  13,
     11,  14,  11,  11,  11,  11,  11,  11,  16,  11,  11,  11,  11,  11,   7,   6,
-     6,   8,  11,  12,  11,  11,  11,  11,  11,  11,  12,  12,  12,  12,  11,  14);
+     6,   8,  11,  12,  11,  11,  11,  11,  11,  11,  12,  12,  12,  12,  10,  17);
 
 Define RectList
  ( (   0,  0, 20, 43), (  21,  0, 19, 43), (  41,  0, 19, 43), (  61,  0, 21, 43),
@@ -85,17 +85,6 @@ Define OffsetList
    (-4, 0), (-4, 0), (-4, 0), (-4, 0), (-4, 0), (-4, 0), (-4, 0), (-4, 0),
    (-5, 0), (-5, 0), (-3, 0), (-4, 0), (-4, 0), (-4, 0), (-4, 0), (-4, 0),
    (-4, 0), (-4, 0), (-4, 0), (-4, 0), (-4, 0), (-4, 0), (-3, 0), (-4, 0));
-
-CreateLayer               Outline;
-LayerSetImage             Outline 'HouseofTerror20Outline';
-LayerSetAscent            Outline 31;
-LayerSetCharWidths        Outline CharList WidthList;
-LayerSetCharWidths        Outline (' ') (7);
-LayerSetImageMap          Outline CharList RectList;
-LayerSetCharOffsets       Outline CharList OffsetList;
-LayerSetAscentPadding     Outline 3;
-LayerSetLineSpacingOffset Outline 0;
-LayerSetPointSize         Outline 20;
 
 CreateLayer               Main;
 LayerSetImage             Main 'HouseofTerror20';

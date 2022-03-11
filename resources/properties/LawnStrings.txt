@@ -1,2974 +1,3450 @@
 [PEASHOOTER]
-Peashooter
+豌豆射手
 
 [PEASHOOTER_TOOLTIP]
-Shoots peas at the enemy
+向敌人射出豌豆
 
 [SUNFLOWER]
-Sunflower
+向日葵
 
 [SUNFLOWER_TOOLTIP]
-Gives you additional sun
+提供你额外的阳光
 
 [CHERRY_BOMB]
-Cherry Bomb
+樱桃炸弹
 
 [CHERRY_BOMB_TOOLTIP]
-Blows up all zombies in an area
+炸掉一定区域内的所有僵尸
 
 [WALL_NUT]
-Wall-nut
+坚果墙
 
 [WALL_NUT_TOOLTIP]
-Blocks off zombies and protects your other plants
+阻碍僵尸前进, 并保护你其他的植物
 
 [REPEATER]
-Repeater
+双发射手 
 
 [REPEATER_TOOLTIP]
-Fires two peas at a time
+一次发射两颗豌豆
 
 [POTATO_MINE]
-Potato Mine
+土豆雷 
 
 [POTATO_MINE_TOOLTIP]
-Explodes on contact, but takes time to arm itself
+敌人接触后爆炸, 但需要时间安放
 
 [SNOW_PEA]
-Snow Pea
+寒冰射手
 
 [SNOW_PEA_TOOLTIP]
-Shoots frozen peas that damage and slow the enemy
+寒冰射手可造成伤害, 同时又有减速效果
 
 [CHOMPER]
-Chomper
+大嘴花
 
 [CHOMPER_TOOLTIP]
-Devours a zombie whole, but is vulnerable while chewing
+能一口气吞下一只僵尸, 但处于咀嚼状态中十分脆弱
 
 [PUFF_SHROOM]
-Puff-shroom
+小喷菇
 
 [PUFF_SHROOM_TOOLTIP]
-Shoots short-ranged spores at the enemy
+向敌人发射短程孢子
 
 [SUN_SHROOM]
-Sun-shroom
+阳光菇
 
 [SUN_SHROOM_TOOLTIP]
-Gives small sun at first and normal sun later
+开始提供少量的阳光, 一段时间后提供正常量的阳光
 
 [FUME_SHROOM]
-Fume-shroom
+大喷菇
 
 [FUME_SHROOM_TOOLTIP]
-Shoots fumes that can pass through screen doors
+喷射可以穿过门板的气液
 
 [GRAVE_BUSTER]
-Grave Buster
+墓碑吞噬者
 
 [GRAVE_BUSTER_TOOLTIP]
-Plant it on a grave to remove the grave
+把它种在墓碑上用来吞噬墓碑
 
 [HYPNO_SHROOM]
-Hypno-shroom
+魅惑菇
 
 [HYPNO_SHROOM_TOOLTIP]
-Makes a zombie fight for you
+让一只僵尸为你作战
 
 [SCAREDY_SHROOM]
-Scaredy-shroom
+胆小菇
 
 [SCAREDY_SHROOM_TOOLTIP]
-Long-ranged shooter that hides when enemies get near it
+远程射手, 但敌人靠近时会蜷缩不动
 
 [ICE_SHROOM]
-Ice-shroom
+寒冰菇
 
 [ICE_SHROOM_TOOLTIP]
-Temporarily immobilizes all zombies on the screen
+暂时使画面里的所有敌人停止行动
 
 [DOOM_SHROOM]
-Doom-shroom
+毁灭菇
 
 [DOOM_SHROOM_TOOLTIP]
-Destroys a large area, leaving a crater in its wake
+造成大规模的伤害, 但会在原地留下一个坑, 坑中无法种植物
 
 [LILY_PAD]
-Lily Pad
+睡莲
 
 [LILY_PAD_TOOLTIP]
-Lets you plant non-aquatic plants on top of it
+使你能够将非水生植物种在上面
 
 [SQUASH]
-Squash
+窝瓜
 
 [SQUASH_TOOLTIP]
-Squashes zombies
+压扁接近的僵尸
 
 [THREEPEATER]
-Threepeater
+三线射手
 
 [THREEPEATER_TOOLTIP]
-Shoots peas in three lanes
+一次射出三行的豌豆
 
 [TANGLE_KELP]
-Tangle Kelp
+缠绕海草
 
 [TANGLE_KELP_TOOLTIP]
-Aquatic plant that pulls a zombie underwater
+可以将僵尸拉入水底的水生植物
 
 [JALAPENO]
-Jalapeno
+火爆辣椒
 
 [JALAPENO_TOOLTIP]
-Destroys an entire lane of zombies
+消灭整行的敌人
 
 [SPIKEWEED]
-Spikeweed
+地刺
 
 [SPIKEWEED_TOOLTIP]
-Pops tires and hurts zombies that step on it
+扎破轮胎, 也能伤害走在上面的僵尸
 
 [TORCHWOOD]
-Torchwood
+火炬树桩
 
 [TORCHWOOD_TOOLTIP]
-Peas that pass through it turn into fireballs
+通过火炬树桩的豌豆将变为火球
 
 [TALL_NUT]
-Tall-nut
+高坚果
 
 [TALL_NUT_TOOLTIP]
-Heavy-duty wall that can't be vaulted over
+不会被跳过的坚实壁垒
 
 [SEA_SHROOM]
-Sea-shroom
+海蘑菇
 
 [SEA_SHROOM_TOOLTIP]
-Aquatic plant that shoots short-ranged spores
+发射短距离孢子的水生植物
 
 [PLANTERN]
-Plantern
+路灯花
 
 [PLANTERN_TOOLTIP]
-Lights up an area, letting you see through fog
+照亮一片区域, 让玩家可以看穿战场迷雾
 
 [CACTUS]
-Cactus
+仙人掌
 
 [CACTUS_TOOLTIP]
-Shoots spikes that can pop balloons
+能发射刺穿气球的子弹
 
 [BLOVER]
-Blover
+三叶草
 
 [BLOVER_TOOLTIP]
-Blows away all balloon zombies and fog
+能吹走所有气球和迷雾
 
 [SPLIT_PEA]
-Split Pea
+裂荚射手
 
 [SPLIT_PEA_TOOLTIP]
-Shoots peas forward and backwards
+前后双向发射豌豆
 
 [STARFRUIT]
-Starfruit
+杨桃
 
 [STARFRUIT_TOOLTIP]
-Shoots stars in 5 directions
+向五个方向发射小杨桃
 
 [PUMPKIN]
-Pumpkin
+南瓜头
 
 [PUMPKIN_TOOLTIP]
-Protects plants that are within its shell
+能保护种在里面的植物
 
 [MAGNET_SHROOM]
-Magnet-shroom
+磁力菇
 
 [MAGNET_SHROOM_TOOLTIP]
-Removes helmets and other metal objects from zombies
+将铁桶, 其他金属物品从僵尸身上移除
 
 [CABBAGE_PULT]
-Cabbage-pult
+卷心菜投手
 
 [CABBAGE_PULT_TOOLTIP]
-Hurls cabbages at the enemy
+向敌人投掷卷心菜
 
 [FLOWER_POT]
-Flower Pot
+花盆
 
 [FLOWER_POT_TOOLTIP]
-Lets you plant on the roof
+可以让植物栽种在屋顶上
 
 [KERNEL_PULT]
-Kernel-pult
+玉米投手
 
 [KERNEL_PULT_TOOLTIP]
-Flings corn kernels and butter at zombies
+向敌人投掷玉米粒或黄油
 
 [GARLIC]
-Garlic
+大蒜
 
 [GARLIC_TOOLTIP]
-Diverts zombies into other lanes
+将僵尸赶到其它的横行
 
 [UMBRELLA_LEAF]
-Umbrella Leaf
+叶子保护伞
 
 [UMBRELLA_LEAF_TOOLTIP]
-Protects nearby plants from bungees and catapults
+保护邻近的植物, 免受蹦极僵尸和投石车僵尸的攻击
 
 [MARIGOLD]
-Marigold
+金盏花
 
 [MARIGOLD_TOOLTIP]
-Gives you silver and gold coins
+提供金币和银币
 
 [MELON_PULT]
-Melon-pult
+西瓜投手
 
 [MELON_PULT_TOOLTIP]
-Does heavy damage to groups of zombies
+可以对成群的僵尸们造成巨大伤害
 
 [GATLING_PEA]
-Gatling Pea
+机枪射手
 
 [GATLING_PEA_TOOLTIP]
-Shoots four peas at a time
-(requires repeater)
+一次发射四颗豌豆 
+(需要双发射手)
 
 [TWIN_SUNFLOWER]
-Twin Sunflower
+双子向日葵
 
 [TWIN_SUNFLOWER_TOOLTIP]
-Gives twice as much sun as a sunflower
-(requires sunflower)
+一次提供两倍于向日葵的阳光量
+(需要向日葵)
 
 [GLOOM_SHROOM]
-Gloom-shroom
+忧郁蘑菇
 
 [GLOOM_SHROOM_TOOLTIP]
-Releases heavy fumes in an area around itself
-(requires fume-shroom)
+围绕自身释放大量烟雾
+(需要大喷菇)
 
 [CATTAIL]
-Cattail
+香蒲
 
 [CATTAIL_TOOLTIP]
-Attacks any lane and shoots down balloon zombies
-(requires lily pad)
+攻击任何线上的僵尸以及气球僵尸
+(需要睡莲)
 
 [WINTER_MELON]
-Winter Melon
+“冰”瓜
 
 [WINTER_MELON_TOOLTIP]
-Does heavy damage and slows groups of zombies
-(requires melon-pult)
+能对成群的僵尸造成巨大伤害, 具有减速效果 
+(需要西瓜投手)
 
 [GOLD_MAGNET]
-Gold Magnet
+吸金磁
 
 [GOLD_MAGNET_TOOLTIP]
-Collects coins and diamonds for you
-(requires magnet-shroom)
+帮你收集硬币和钻石 
+(需要磁力菇)
 
 [SPIKEROCK]
-Spikerock
+地刺王
 
 [SPIKEROCK_TOOLTIP]
-Pops multiple tires and damages zombies that walk over it
-(requires spikeweed)
+能扎破多个轮胎, 并伤害经过上面的僵尸, (需要地刺)
 
 [COB_CANNON]
-Cob Cannon
+玉米加农炮
 
 [COB_CANNON_TOOLTIP]
-Click to launch deadly cobs of corn
-(requires 2 kernel-pults)
+点击发射致命的玉米棒 
+(需要2个玉米投手)
 
 [IMITATER]
-Imitater
+模仿者
 
 [IMITATER_TOOLTIP]
-Lets you have two of the same plant
+让玩家能使用两份相同的植物, 分别计算冷却时间. 
 
 [COFFEE_BEAN]
-Coffee Bean
+咖啡豆
 
 [COFFEE_BEAN_TOOLTIP]
-Plant it on a mushroom to wake it up
+唤醒在白天里睡觉的蘑菇类植物
 
 [EXPLODE_O_NUT]
-Explode-o-nut
+爆炸坚果
 
 [EXPLODE_O_NUT_TOOLTIP]
-Explodes on contact
+僵尸接近后爆炸
 
 [GIANT_WALLNUT]
-Giant Wall-nut
+巨大坚果墙
 
 [SPROUT]
-Sprout
+发芽
 
 [MARIGOLD_SPROUT]
-Marigold Sprout
+金盏花之芽
 
 [ZOMBIE]
-Zombie
+僵尸
 
 [FLAG_ZOMBIE]
-Flag Zombie
+摇旗僵尸
 
 [CONEHEAD_ZOMBIE]
-Conehead Zombie
+路障僵尸
 
 [BUCKETHEAD_ZOMBIE]
-Buckethead Zombie
+铁桶僵尸
 
 [POLE_VAULTING_ZOMBIE]
-Pole Vaulting Zombie
+撑杆僵尸
 
 [NEWSPAPER_ZOMBIE]
-Newspaper Zombie
+读报僵尸
 
 [SCREEN_DOOR_ZOMBIE]
-Screen Door Zombie
+铁栅门僵尸
 
 [FOOTBALL_ZOMBIE]
-Football Zombie
+橄榄球僵尸
 
 [DANCING_ZOMBIE]
-Dancing Zombie
+舞王僵尸
 
 [BACKUP_DANCER]
-Backup Dancer
+伴舞僵尸
 
 [DUCKY_TUBE_ZOMBIE]
-Ducky Tube Zombie
+鸭子救生圈僵尸
 
 [SNORKEL_ZOMBIE]
-Snorkel Zombie
+潜水僵尸
 
 [ZOMBONI]
-Zomboni
+雪撬车僵尸
 
 [ZOMBIE_BOBSLED_TEAM]
-Zombie Bobsled Team
+雪橇僵尸小队
 
 [DOLPHIN_RIDER_ZOMBIE]
-Dolphin Rider Zombie
+海豚骑士僵尸
 
 [JACK_IN_THE_BOX_ZOMBIE]
-Jack-in-the-Box Zombie
+玩偶匣僵尸
 
 [BALLOON_ZOMBIE]
-Balloon Zombie
+气球僵尸
 
 [DIGGER_ZOMBIE]
-Digger Zombie
+矿工僵尸
 
 [POGO_ZOMBIE]
-Pogo Zombie
+跳跳僵尸
 
 [ZOMBIE_YETI]
-Zombie Yeti
+僵尸雪人
 
 [BUNGEE_ZOMBIE]
-Bungee Zombie
+蹦极僵尸
 
 [LADDER_ZOMBIE]
-Ladder Zombie
+扶梯僵尸
 
 [CATAPULT_ZOMBIE]
-Catapult Zombie
+投石车僵尸
 
 [GARGANTUAR]
-Gargantuar
+伽刚特尔
 
 [REDEYED_GARGANTUAR]
-Giga-gargantuar
+暴走伽刚特尔
 
 [IMP]
-Imp
+小鬼僵尸
 
 [BOSS]
-Dr. Zomboss
-
-[DOG_WALKING_ZOMBIE]
-Dog Walking Zombie
-
-[DOG_ZOMBIE]
-Dog Zombie
-
-[PROPELLER_ZOMBIE]
-Propeller Zombie
+僵王博士
 
 [PEASHOOTER_DESCRIPTION]
-Peashooters are your first line of defense. They shoot peas at attacking zombies.
+豌豆射手，你的第一道防线。它们通过发射豌
+豆来攻击僵尸。
 {SHORTLINE}
-{KEYWORD}Damage:{STAT} normal
+{KEYWORD}伤害：{STAT}中等
 {SHORTLINE}
-{FLAVOR}How can a single plant grow and shoot so many peas so quickly? Peashooter says, 
-"Hard work, commitment, and a healthy, well-balanced breakfast of sunlight and high-fiber 
-carbon dioxide make it all possible."
+{FLAVOR}一棵植物，怎么能如此快地生长，并发射如此
+多的豌豆呢？豌豆射手：“努力工作，奉献自
+己，再加上一份阳光，高纤维和氧化碳均衡搭
+配，这种健康早餐让一切成为可能。”
 
 [SUNFLOWER_DESCRIPTION]
-Sunflowers are essential for you to produce extra sun. Try planting as many as you can!
+向日葵，为你生产额外阳光的经济作物。尝试
+尽可能多种植吧！
 {SHORTLINE}
-{KEYWORD}Sun production:{STAT} normal
+{KEYWORD}阳光产量：{STAT}中等
 {SHORTLINE}
-{FLAVOR}Sunflower can't resist bouncing to the beat. Which beat is that? Why, the 
-life-giving jazzy rhythm of the Earth itself, thumping at a frequency only Sunflower can hear.
+{FLAVOR}
+向日葵情不自禁地和着节拍起舞。是什么节拍
+呢？嗨，是大地自己用来提神的爵士节拍，这
+种频率的节拍，只有向日葵才能听到。
 
 [WALL_NUT_DESCRIPTION]
-Wall-nuts have hard shells which you can use to protect your other plants.
+坚果墙拥有足以让你用来保护其它植物的坚硬
+外壳。
 {SHORTLINE}
-{KEYWORD}Toughness:{STAT} high
+{KEYWORD}韧性：{STAT}高
 {SHORTLINE}
-{FLAVOR}"People wonder how I feel about getting constantly chewed on by zombies," says Wall-nut. 
-"What they don't realize is that with my limited senses all I can feel is a kind of tingling, like a relaxing back rub."
+{FLAVOR}坚果墙：“人们想知道，经常被僵尸啃的感觉
+怎样？他们不知道，我有限的感官，只能让我
+感到一种麻麻的感觉，像是，令人放松的背部
+按摩。”
 
 [CHERRY_BOMB_DESCRIPTION]
-Cherry Bombs can blow up all zombies in an area. They have a short fuse so plant them near zombies.
+樱桃炸弹，能以炸掉一定区域内所有僵尸。他
+们一种下就会立刻引爆，所有请把他们种在僵
+尸们的身边。
 {SHORTLINE}
-{KEYWORD}Damage:{STAT} massive
-{KEYWORD}Range:{STAT} all zombies in a medium area
-{KEYWORD}Usage:{STAT} single use, instant
+{KEYWORD}伤害：{STAT}巨大
+{KEYWORD}范围：{STAT}一个中等区域内的所有僵尸
+{KEYWORD}使用方法：{STAT}单独使用，立即爆炸
 {SHORTLINE}
-{FLAVOR}"I wanna explode," says Cherry #1. "No, let's detonate instead!" says 
-his brother, Cherry #2. After intense consultation they agree to explodonate.
+{FLAVOR}“我要‘爆’开了，”樱桃一号说。“不，我
+们是要‘炸’开了！”它哥哥樱桃二号说。经
+过激烈的商议之后，他们才统一“爆炸”这个
+说法。
 
 [POTATO_MINE_DESCRIPTION]
-Potato Mines pack a powerful punch, but they need a while to arm themselves. You should plant them ahead of zombies. They will explode on contact.
+土豆雷具有强大的威力，但是他们需要点时间
+，来武装自己。你应把他们种在僵尸前进的路
+上，当他们一被接触就会爆炸。
 {SHORTLINE}
-{KEYWORD}Damage:{STAT} massive
-{KEYWORD}Range:{STAT} all zombies in a small area
-{KEYWORD}Usage:{STAT} single use, delayed activation
+{KEYWORD}伤害：{STAT}巨大
+{KEYWORD}范围：{STAT}一个小区域内的所有僵尸
+{KEYWORD}使用方法：{STAT}单独使用，需要一定准备时间才能
+起作用。
 {SHORTLINE}
-{FLAVOR}Some folks say Potato Mine is lazy, that he leaves everything to the last 
-minute. Potato Mine says nothing. He's too busy thinking about his investment strategy.
+{FLAVOR}一些人说土豆雷很懒，因为他总是把所有事情
+留到最后。土豆雷才没空理他们，他正忙着考
+虑他的投资战略呢。
 
 [REPEATER_DESCRIPTION]
-Repeaters fire two peas at a time.
+双发射手可以一次发射两颗豌豆
 {SHORTLINE}
-{KEYWORD}Damage:{STAT} normal (for each pea)
-{KEYWORD}Firing speed:{STAT} 2x
+{KEYWORD}伤害：{STAT}中等(每颗)
+{KEYWORD}发射速度：{STAT}两倍
 {SHORTLINE}
-{FLAVOR}Repeater is fierce. He's from the streets. He doesn't take attitude from anybody, 
-plant or zombie, and he shoots peas to keep people at a distance. Secretly, though, Repeater yearns for love.
+{FLAVOR}
+双发射手很凶悍，他是在街头混大的。他不在
+乎任何人的看法，无论是植物还是僵尸，他打
+出豌豆，是为了让别人离他远点。其实呢，双
+发射手一直暗暗地渴望着爱情。
+
 
 [SNOW_PEA_DESCRIPTION]
-Snow Peas shoot frozen peas that damage and slow the enemy.
+寒冰射手会发射寒冰豌豆，来攻击敌人，并具
+有减速效果。
 {SHORTLINE}
-{KEYWORD}Damage:{STAT} normal, slows zombies
+{KEYWORD}伤害：{STAT}中等，带有减速效果
 {SHORTLINE}
-{FLAVOR}Folks often tell Snow Pea how "cool" he is, or exhort him to "chill out." They 
-tell him to "stay frosty." Snow Pea just rolls his eyes. He's heard 'em all.
+{FLAVOR}
+人们经常告诉寒冰射手他是多么“冷酷”，或
+者告诫他要“冷静”。他们叫他要“保持镇静
+”。寒冰射手只是转转他的眼睛。其实他都听
+见了。
 
 [CHOMPER_DESCRIPTION]
-Chompers can devour a zombie whole, but they are vulnerable while chewing.
+大嘴花可以一口吞掉一整只僵尸，但是他们消
+化僵尸的时候很脆弱。
 {SHORTLINE}
-{KEYWORD}Damage:{STAT} massive
-{KEYWORD}Range:{STAT} very short
-{KEYWORD}Special:{STAT} long delay between chomps
+{KEYWORD}伤害：{STAT}巨大
+{KEYWORD}范围：{STAT}非常近
+{KEYWORD}特点：{STAT}消化时间很长
 {SHORTLINE}
-{FLAVOR}Chomper almost got a gig doing stunts for The Little Shop of Horrors but it fell 
-through when his agent demanded too much on the front end. Chomper's not resentful, 
-though. He says it's just part of the business.
+{FLAVOR}大嘴花几乎可以去“恐怖小店”，来表演它的
+绝技了，不过他的经济人榨取了他太多的钱，
+所以他没去成。尽管如此，大嘴花没有怨言，
+只说了句这只是交易的一部分。
 
 [PUFF_SHROOM_DESCRIPTION]
-Puff-shrooms are cheap, but can only fire a short distance.
+小喷菇是免费的，不过射程很近。
 {SHORTLINE}
-{KEYWORD}Damage:{STAT} normal
-{KEYWORD}Range:{STAT} short
-{NOCTURNAL}Sleeps during the day
+{KEYWORD}伤害：{STAT}中等
+{KEYWORD}范围：{STAT}近
+{NOCTURNAL}白天要睡觉
 {SHORTLINE}
-{FLAVOR}"I only recently became aware of the existence of zombies," says Puff-shroom. "Like many fungi, 
-I'd just assumed they were fairy tales or movie monsters. This whole experience has been a huge eye-opener for me."
+{FLAVOR}小喷菇：“我也是最近才知道僵尸的存在，和
+很多蘑菇一样，我只是把他们想象成童话和电
+影里的怪物。不过这次的经历已经让我大开眼
+界了。
 
 [SUN_SHROOM_DESCRIPTION]
-Sun-shrooms give small sun at first and normal sun later.
+阳光菇开始提供少量阳光，稍后提供正常数量
+阳光。
 {SHORTLINE}
-{KEYWORD}Sun production:{STAT} low, then normal
-{NOCTURNAL}Sleeps during the day
+{KEYWORD}生产阳光：{STAT}开始低，之后正常
+{NOCTURNAL}白天睡觉
 {SHORTLINE}
-{FLAVOR}Sun-shroom hates sun. He hates it so much that when it builds up in his system, 
-he spits it out as fast as he can. He just won't abide it. To him, sun is crass.
+{FLAVOR}阳光菇讨厌阳光。恨到当它内部产生点阳光时
+，就尽可能快的吐出来。它就是不能忍受这个
+。对它来说，阳光令人厌恶。
 
 [FUME_SHROOM_DESCRIPTION]
-Fume-shrooms shoot fumes that can pass through screen doors.
+大喷菇喷出的臭气可以穿透铁丝网门。
 {SHORTLINE}
-{KEYWORD}Damage:{STAT} normal, penetrates screen doors
-{KEYWORD}Range:{STAT} all zombies in the fume cloud
-{NOCTURNAL}Sleeps during the day
+{KEYWORD}伤害：{STAT}普通，可穿透铁丝网门
+{KEYWORD}范围：{STAT}臭气中的所有僵尸
+{NOCTURNAL}白天睡觉
 {SHORTLINE}
-{FLAVOR}"I was in a dead-end job producing yeast spores for a bakery," says Fume-shroom. 
-"Then Puff-shroom, bless 'im, told me about this great opportunity blasting zombies. Now I really feel like I'm making a difference."
+{FLAVOR}“我以前那份没前途的工作，是为一个面包房
+生产酵母孢，”大喷菇说。
+“然后小喷菇，上帝保佑它，告诉了我这个喷
+杀僵尸的机会。现在我真觉得自己完全不同了
+。”
 
 [GRAVE_BUSTER_DESCRIPTION]
-Plant Grave Busters on graves to remove the graves.
+墓碑吞噬者用来吃掉墓碑。
 {SHORTLINE}
-{KEYWORD}Usage:{STAT} single use, must be planted on graves
-{KEYWORD}Special:{STAT} removes graves
+{KEYWORD}使用方法：{STAT}单次使用，只对墓碑生效。
+{KEYWORD}特点：{STAT}吞噬墓碑。
 {SHORTLINE}
-{FLAVOR}Despite Grave Buster's fearsome appearance, he wants everyone to know that he loves 
-kittens and spends his off hours volunteering at a local zombie rehabilitation center. "It's just the right thing to do," he says.
+{FLAVOR}尽管墓碑吞噬者的外表十分吓人，但他想要所
+有人都知道，其实他喜欢小猫咪，而且利用业
+余时间，在一家僵尸康复中心做志愿者。“我
+只是在做正确的事情，”他说。
 
 [HYPNO_SHROOM_DESCRIPTION]
-When eaten, Hypno-shrooms will make a zombie turn around and fight for you.
+当僵尸吃下魅惑菇后，他将会掉转方向为你作
+战
 {SHORTLINE}
-{KEYWORD}Usage:{STAT} single use, on contact
-{KEYWORD}Special:{STAT} makes a zombie fight for you
-{NOCTURNAL}Sleeps during the day
+{KEYWORD}使用方法：{STAT}单独使用，接触生效
+{KEYWORD}特点：{STAT}让一只僵尸为你作战
+{NOCTURNAL}白天睡觉
 {SHORTLINE}
-{FLAVOR}"Zombies are our friends," asserts Hypno-shroom. "They're badly misunderstood creatures 
-who play a valuable role in our ecology. We can and should do more to bring them round to our way of thinking."
+{FLAVOR}魅惑菇声称：“僵尸们是我们的朋友，他们被
+严重误解了，僵尸们在我们的生态环境里扮演
+着重要角色。我们可以也应当更努力地让他们
+学会用我们的方式来思考。”
 
 [SCAREDY_SHROOM_DESCRIPTION]
-Scaredy-shrooms are long-ranged shooters that hide when enemies get near them.
+胆小菇是一种远程射手，敌人接近后会躲起来
+。
 {SHORTLINE}
-{KEYWORD}Damage:{STAT} normal
-{KEYWORD}Special:{STAT} stops shooting when enemy is close
-{NOCTURNAL}Sleeps during the day
+{KEYWORD}伤害：{STAT}普通
+{KEYWORD}特点：{STAT}敌人接近后就停止攻击
+{NOCTURNAL}白天睡觉
 {SHORTLINE}
-{FLAVOR}"Who's there?" whispers Scaredy-shroom, voice barely audible. "Go away. I don't want to see anybody. Unless it's the man from the circus."
+{FLAVOR}“谁在那？”胆小菇低声说，声音细微难辨。
+“走开！我不想见任何人。除非……除非你是
+马戏团的人。”
 
 [ICE_SHROOM_DESCRIPTION]
-Ice-shrooms temporarily immobilize all zombies on the screen.
+寒冰菇，能短暂的冻结屏幕上所有僵尸。
 {SHORTLINE}
-{KEYWORD}Damage:{STAT} very light, immobilizes zombies
-{KEYWORD}Range:{STAT} all zombies on the screen
-{KEYWORD}Usage:{STAT} single use, instant
-{NOCTURNAL}Sleeps during the day
+{KEYWORD}伤害：{STAT}非常低，冻结僵尸
+{KEYWORD}范围：{STAT}屏幕上的所有僵尸
+{KEYWORD}用法：{STAT}单独使用，立即生效
+{NOCTURNAL}白天睡觉
 {SHORTLINE}
-{FLAVOR}Ice-shroom frowns, not because he's unhappy or because he disapproves, but because of a childhood injury that left his facial nerves paralyzed.
+{FLAVOR}寒冰菇皱着眉头，倒不是因为它不高兴或不满
+意，只是因为，它儿时因受创伤而遗留下了面
+瘫。
 
 [DOOM_SHROOM_DESCRIPTION]
-Doom-shrooms destroy everything in a large area and leave a crater that can't be planted on.
+毁灭菇可以摧毁大范围的僵尸，并留下一个不
+能种植物的大弹坑。
 {SHORTLINE}
-{KEYWORD}Damage:{STAT} massive
-{KEYWORD}Range:{STAT} all zombies in a huge area
-{KEYWORD}Usage:{STAT} single use, instant
-{KEYWORD}Special:{STAT} leaves a crater
-{NOCTURNAL}Sleeps during the day
+{KEYWORD}伤害：{STAT}极高
+{KEYWORD}范围：{STAT}大范围内的所有僵尸
+{KEYWORD}用法：{STAT}单独使用，立即生效
+{KEYWORD}特点：{STAT}留下一个弹坑
+{NOCTURNAL}白天睡觉
 {SHORTLINE}
-{FLAVOR}"You're lucky I'm on your side," says Doom-shroom. "I could destroy everything you hold dear. It wouldn't be hard."
+{FLAVOR}“你很幸运，我是和你一伙的，”毁灭菇说，
+“我能摧毁任何你所珍视的东西，小菜一碟。
+”
 
 [LILY_PAD_DESCRIPTION]
-Lily pads let you plant non-aquatic plants on top of them.
+睡莲可以让你种植非水生植物在它上面。
 {SHORTLINE}
-{KEYWORD}Special:{STAT} non-aquatic plants can be planted on top of it
-{AQUATIC}Must be planted in water
+{KEYWORD}特点：{STAT}非水生植物可以种植在它上面
+{AQUATIC}必须种植在水面
 {SHORTLINE}
-{FLAVOR}Lily Pad never complains. Lily Pad never wants to know what's going on. Put a plant on top of Lily Pad, 
-he won't say a thing. Does he have startling opinions or shocking secrets? Nobody knows. Lily Pad keeps it all inside.
+{FLAVOR}睡莲从不抱怨，它也从来不想知道发生了什么
+事。在它身上种植物，它也不会说什么。难道
+，它有什么惊奇想法或者可怕的秘密？没人知
+道。睡莲把这些都埋藏在心底。
 
 [SQUASH_DESCRIPTION]
-Squashes will smash the first zombie that gets close to it.
+窝瓜会压扁第一个接近它的僵尸。
 {SHORTLINE}
-{KEYWORD}Damage:{STAT} massive
-{KEYWORD}Range:{STAT} short range, hits all zombies that it lands on
-{KEYWORD}Usage:{STAT} single use
+{KEYWORD}伤害：{STAT}极高
+{KEYWORD}范围：{STAT}短，覆盖所有它压到的僵尸。
+{KEYWORD}用法：{STAT}单独使用
 {SHORTLINE}
-{FLAVOR}"I'm ready!" yells Squash. "Let's do it! Put me in! There's nobody better! I'm your guy! C'mon! Whaddya waiting for? I need this!"
+{FLAVOR}“我准备好了！”窝瓜大吼道，“干吧！！算
+我一份！没人比我厉害！我就是你要的人！来
+啊！等啥啊？要的就是这个！”
 
 [THREEPEATER_DESCRIPTION]
-Threepeaters shoot peas in three lanes.
+三线射手可以在三条线上同时射出豌豆。
 {SHORTLINE}
-{KEYWORD}Damage:{STAT} normal (for each pea)
-{KEYWORD}Range:{STAT} three lanes
+{KEYWORD}伤害：{STAT}普通(每颗)
+{KEYWORD}范围：{STAT}三线
 {SHORTLINE}
-{FLAVOR}Threepeater likes reading, backgammon and long periods of immobility in the park. Threepeater enjoys 
-going to shows, particularly modern jazz. "I'm just looking for that special someone," he says. Threepeater's favorite number is 5.
+{FLAVOR}三线射手喜欢读书，下棋和在公园里呆坐。他
+也喜欢演出，特别是现代爵士乐。“我正在寻
+找我生命中的另一半，”他说。三线射手最爱
+的数字是5。
 
 [TANGLE_KELP_DESCRIPTION]
-Tangle Kelp are aquatic plants that pull the first zombie that nears them underwater.
+缠绕水草是一种可以把接近他的僵尸拉进水中
+的水生植物。
 {SHORTLINE}
-{KEYWORD}Damage:{STAT} massive
-{KEYWORD}Usage:{STAT} single use, on contact
-{AQUATIC}Must be planted in water
+{KEYWORD}伤害：{STAT}极高
+{KEYWORD}用法：{STAT}单独使用，接触后生效
+{AQUATIC}必须种在水中
 {SHORTLINE}
-{FLAVOR}"I'm totally invisible," Tangle Kelp thinks to himself. "I'll hide here just below the surface and 
-nobody will see me." His friends tell him they can see him perfectly well, but he'll never change.
+{FLAVOR}“我是完全隐形的，”缠绕水草自己想，“我
+就藏在水面下，没人会看到我。”他的朋友告
+诉他，他们可以清楚地看到他。不过，缠绕水
+草似乎不想改变自己的看法。
 
 [JALAPENO_DESCRIPTION]
-Jalapenos destroy an entire lane of zombies.
+火爆辣椒可以摧毁一整条线上的敌人。
 {SHORTLINE}
-{KEYWORD}Damage:{STAT} massive
-{KEYWORD}Range:{STAT} all zombies in a lane
-{KEYWORD}Usage:{STAT} single use, instant
+{KEYWORD}伤害：{STAT}极高
+{KEYWORD}范围：{STAT}整条线上的僵尸
+{KEYWORD}用法：{STAT}单独使用，立即生效
 {SHORTLINE}
-{FLAVOR}"NNNNNGGGGGG!!!!!!!!" Jalapeno says. He's not going to explode, not this time. But soon. Oh, so soon. 
-It's close. He knows it, he can feel it, his whole life's been leading up to this moment.
+{FLAVOR}“嘎嘎嘎嘎嘎嘎嘎！！！”火爆辣椒说。他现
+在不会爆炸，还不到时候，不过快了，喔~，
+快了快了，快来了。他知道，他感受到了，他
+一生都是在等待这个时刻！
 
 [SPIKEWEED_DESCRIPTION]
-Spikeweeds pop tires and hurt any zombies that step on them.
+地刺可以扎破轮胎，并对踩到他的僵尸造成伤
+害
 {SHORTLINE}
-{KEYWORD}Damage:{STAT} normal
-{KEYWORD}Range:{STAT} all zombies that walk over it
-{KEYWORD}Special:{STAT} can't be eaten by zombies
+{KEYWORD}伤害：{STAT}普通
+{KEYWORD}范围：{STAT}所有踩到他的僵尸
+{KEYWORD}特点：{STAT}不会被僵尸吃掉
 {SHORTLINE}
-{FLAVOR}Hockey is Spikeweed's obsession. He's got box seat season tickets. He keeps close track of his favorite 
-players. And he consistently cleans up in the office hockey pool. Just one problem: he's terrified of pucks.
+{FLAVOR}地刺痴迷冰球，他买了包厢的季票。他一直关
+注着他喜欢的球员，他也始终如一的在赛后清
+理冰球场。但只有一个问题：他害怕冰球。
 
 [TORCHWOOD_DESCRIPTION]
-Torchwoods turn peas that pass through them into fireballs that deal twice as much damage.
+火炬树桩可以把穿过他的豌豆变成火球，可以
+造成两倍伤害。
 {SHORTLINE}
-{KEYWORD}Special:{STAT} doubles the damage of peas that pass through it.  Fireballs deal damage to nearby zombies on impact
+{KEYWORD}特点：{STAT}让穿过他的火球造成两倍伤害。火球也
+会对附近僵尸造成溅射伤害
 {SHORTLINE}
-{FLAVOR}Everybody likes and respects Torchwood. They like him for his integrity, for his steadfast friendship, 
-for his ability to greatly maximize pea damage. But Torchwood has a secret: he can't read.
+{FLAVOR}每个人都喜欢并敬重火炬树桩。他们喜欢他的
+诚实和坚贞的友谊，以及增强豌豆伤害的能力
+。但他也有自己的秘密：他不识字！
 
 [TALL_NUT_DESCRIPTION]
-Tall-nuts are heavy-duty wall plants that can't be vaulted over.
+高坚果是重型壁垒植物，而且不会被跨过。
 {SHORTLINE}
-{KEYWORD}Toughness:{STAT} very high
-{KEYWORD}Special:{STAT} can't be vaulted or jumped over
+{KEYWORD}韧性：{STAT}非常高
+{KEYWORD}特殊：{STAT}不会被跨过或越过
 {SHORTLINE}
-{FLAVOR}People wonder if there's a rivalry between Wall-nut and Tall-nut. Tall-nut laughs a rich, baritone 
-laugh. "How could there be anything between us? We are brothers. If you knew what Wall-nut has done for me..." 
-Tall-nut's voice trails off and he smiles knowingly.
+{FLAVOR}人们想知道，坚果墙和高坚果是否在竞争。高
+坚果以男中音的声调大声笑了。“我们之间怎
+么会存在竞争关系？我们是哥们儿。你知道坚
+果墙为我做了什么吗……”高坚果的声音越来
+越小，他狡黠地笑着。
 
 [SEA_SHROOM_DESCRIPTION]
-Sea-shrooms are aquatic plants that shoot short ranged spores.
+海蘑菇，能够发射短程孢子的水生植物。
 {SHORTLINE}
-{KEYWORD}Damage:{STAT} normal
-{KEYWORD}Range:{STAT} short
-{AQUATIC}Must be planted in water
-{NOCTURNAL}Sleeps during the day
+{KEYWORD}伤害：{STAT}普通
+{KEYWORD}射程：{STAT}短
+{AQUATIC}必须种在水上
+{NOCTURNAL}白天睡觉
 {SHORTLINE}
-{FLAVOR}Sea-shroom has never seen the sea. It's in his name, he's heard loads about it, but he's just never found the time. One day, though, it'll go down.
+{FLAVOR}海蘑菇从来没看到过大海，大海就在他的名字
+里，他总听到关于大海的事。他只是没找到合
+适的时间，总有一天……是的，他会见到海的
+。
 
 [PLANTERN_DESCRIPTION]
-Planterns light up an area, letting you see through fog.
+路灯花，能照亮一片区域，让你看清战场迷雾
+。
 {SHORTLINE}
-{KEYWORD}Range:{STAT} one lane
-{KEYWORD}Special:{STAT} lets you see through fog
+{KEYWORD}范围：{STAT}一片圆形区域
+{KEYWORD}特点：{STAT}使你看清战场迷雾
 {SHORTLINE}
-{FLAVOR}Plantern defies science. He just does. Other plants eat light and excrete oxygen; Plantern eats 
-darkness and excretes light. Plantern's cagey about how he does it. "I'm not gonna say 'sorcery,' I 
-wouldn't use the term 'dark forces,' I just... I think I've said enough."
+{FLAVOR}路灯花拒绝科学，他只会埋头苦干。其他植物
+吃的是光，挤出的是氧气。路灯花吃的是黑暗
+，挤出的却是光。对于他如何能产生光这件事
+，路灯花持谨慎态度。“我不会说这是‘巫术
+’，我也不会使用‘黑暗力量’，我只是……
+我想我说得够多的了。”
 
 [CACTUS_DESCRIPTION]
-Cactuses shoot spikes that can hit both ground and air targets.
+仙人掌发射的穿刺弹可以用来打击地面和空中
+目标。
 {SHORTLINE}
-{KEYWORD}Damage:{STAT} normal
-{KEYWORD}Range:{STAT} ground and air
+{KEYWORD}伤害：{STAT}中等
+{KEYWORD}范围：{STAT}地面和空中
 {SHORTLINE}
-{FLAVOR}She's prickly, sure, but Cactus's spikes belie a spongy heart filled with love and goodwill. 
-She just wants to hug and be hugged. Most folks can't hang with that, but Cactus doesn't mind. She's 
-been seeing an armadillo for a while and it really seems to be working out.
+{FLAVOR}确实，仙人掌非常“刺儿”，但是她的刺下，
+隐藏藏着颗温柔的心，充满着爱和善良。她只
+是想拥抱别人，和被别人拥抱。大多数人都做
+不到这点，但是仙人掌她并不介意。她盯着一
+只铠甲鼠好一阵子了，这次好像真的可以抱抱
+了。
 
 [BLOVER_DESCRIPTION]
-Blovers blow away all balloon zombies and fog.
+三叶草，能吹走所有的气球僵尸，也可以把雾
+吹散。
 {SHORTLINE}
-{KEYWORD}Usage:{STAT} single use, instant
-{KEYWORD}Special:{STAT} blows away all balloon zombies
+{KEYWORD}使用方法：{STAT}单独使用，立即生效
+{KEYWORD}特点：{STAT}吹走屏幕上所有的气球僵尸
 {SHORTLINE}
-{FLAVOR}When Blover was five he got a shiny new birthday cake. Blover made his wish, huffed and puffed, 
-but was able to extinguish only 60% of the candles. Instead of giving up, though, he's used that early 
-defeat as a catalyst to push himself harder ever since.
+{FLAVOR}当三叶草五岁生日的时候，他得到了一个闪亮
+的生日蛋糕。他许好愿，然后深吸一口气却只
+吹灭了60%的蜡烛。然而他没有放弃，小时候
+的那次失败促使他更加努力直到现在。
 
 [SPLIT_PEA_DESCRIPTION]
-Split Peas shoot peas forward and backwards.
+裂荚射手，可以向前后两个方向发射豌豆。
 {SHORTLINE}
-{KEYWORD}Damage:{STAT} normal
-{KEYWORD}Range:{STAT} forward and backwards
-{KEYWORD}Firing Speed:{STAT} 1x forward, 2x backwards
+{KEYWORD}伤害：{STAT}中等
+{KEYWORD}范围：{STAT}前面和后面
+{KEYWORD}发射速度：{STAT}前面为正常速度，后面为两倍速度
+
 {SHORTLINE}
-{FLAVOR}"Yeah, I'm a Gemini," says Split Pea. "I know, big surprise. But having two heads --or really, 
-one head with a large head-like growth on the back-- pays off big in my line of work."
+{FLAVOR}裂荚射手：“没错，我就是双子座。我知道，
+这的确很令人惊奇。不过，有两个头，或者实
+际上，长着一个头和一个类似头的东西，在背
+上，对我这条线上的防守帮助很大。
 
 [STARFRUIT_DESCRIPTION]
-Starfruits shoot stars in 5 directions.
+杨桃可以向五个方向发射小杨桃。
 {SHORTLINE}
-{KEYWORD}Damage:{STAT} normal
-{KEYWORD}Range:{STAT} 5 directions
+{KEYWORD}伤害：{STAT}中等
+{KEYWORD}范围：{STAT}五个方向
 {SHORTLINE}
-{FLAVOR}"Aw, man," says Starfruit. "I went to the dentist the other day and he said I have four cavities. 
-I've got --count it-- ONE tooth! Four cavities in one tooth? How does this happen?"
+{FLAVOR}杨桃：“嘿，哥们，有一天我去看牙医，他说
+我有四个牙洞。我一数，我就只有一颗牙齿！
+一颗牙齿长了四个牙洞？怎么会这样啊？”
 
 [PUMPKIN_DESCRIPTION]
-Pumpkins protect plants that are within their shells.
+南瓜头，可以用他的外壳保护其他植物。
 {SHORTLINE}
-{KEYWORD}Toughness:{STAT} high
-{KEYWORD}Special:{STAT} can be planted over another plant
+{KEYWORD}韧性：{STAT}高
+{KEYWORD}特点：{STAT}可以种在其他植物上
 {SHORTLINE}
-{FLAVOR}Pumpkin hasn't heard from his cousin Renfield lately. Apparently Renfield's a big star, some kind 
-of... what was it... sports hero? Peggle Master? Pumpkin doesn't really get it. He just does his job.
+{FLAVOR}南瓜头最近都没收到，关于他表哥刃菲尔德的
+消息。很明显，刃菲尔德是个大明星，是一种
+……叫什么运动来着……的体育明星？佩格跳
+跳球大师？南瓜头反正搞不懂是什么运动，他
+只想做好他自己的工作。
 
 [MAGNET_SHROOM_DESCRIPTION]
-Magnet-shrooms remove helmets and other metal objects from zombies.
+磁力菇可以用磁力吸取僵尸的头盔等其它金属
+物品。
 {SHORTLINE}
-{KEYWORD}Range:{STAT} nearby zombies
-{KEYWORD}Special:{STAT} removes metal objects from zombies
-{NOCTURNAL}Sleeps during the day
+{KEYWORD}范围：{STAT}靠近的僵尸
+{KEYWORD}特点：{STAT}移除僵尸们所有的金属物品
+{NOCTURNAL}白天睡觉
 {SHORTLINE}
-{FLAVOR}Magnetism is a powerful force. Very powerful. Sometimes it scares Magnet-shroom a little. He's 
-not sure if he can handle that kind of responsibility.
+{FLAVOR}磁力是一种强大的力量，非常强大，强大到有
+时都吓到磁力菇自己了。能力越大，责任越大
+，他不知道自己能否肩负得起这责任。
 
 [CABBAGE_PULT_DESCRIPTION]
-Cabbage-pults hurl cabbages at the enemy.
+卷心菜投手可以投掷卷心菜。
 {SHORTLINE}
-{KEYWORD}Damage:{STAT} normal
-{KEYWORD}Range:{STAT} lobbed
+{KEYWORD}伤害：{STAT}中等
+{KEYWORD}范围：{STAT}抛掷
 {SHORTLINE}
-{FLAVOR}Cabbage-pult is okay with launching cabbages at zombies. It's what he's paid for, after all, and 
-he's good at it. He just doesn't understand how the zombies get up on the roof in the first place.
+{FLAVOR}卷心菜投手用卷心菜砸僵尸干得很好。他以此
+赚钱，毕竟，他擅长这个。只是首先他不明白
+僵尸们是怎么爬上屋顶的。
 
 [FLOWER_POT_DESCRIPTION]
-Flower Pots let you plant on the roof.
+花盆可以让你在屋顶上种植植物。
 {SHORTLINE}
-{KEYWORD}Special:{STAT} allows you to plant on the roof
+{KEYWORD}特点：{STAT}允许你在屋顶上种植
 {SHORTLINE}
-{FLAVOR}"I'm a pot for planting. Yet I'm also a plant. HAS YOUR MIND EXPLODED YET?"
+{FLAVOR}“我是一个让植物栽种的花盆，但我也是一棵
+植物。是不是很意外？”
 
 [KERNEL_PULT_DESCRIPTION]
-Kernel-pults fling corn kernels and butter at zombies.
+玉米投手，可以投掷玉米粒和黄油。
 {SHORTLINE}
-{KEYWORD}Damage:{STAT} light (kernel), normal (butter)
-{KEYWORD}Range:{STAT} lobbed
-{KEYWORD}Special:{STAT} butter immobilizes zombies
+{KEYWORD}伤害：{STAT}少量(玉米粒)，中等(黄油)
+{KEYWORD}范围：{STAT}抛掷
+{KEYWORD}特点：{STAT}黄油可以暂时固定住僵尸
 {SHORTLINE}
-{FLAVOR}Kernel-Pult is the eldest of the Pult brothers. Of the three of them, Kernel is the only one 
-who consistently remembers the others' birthdays. He bugs them about it a little, too.
+{FLAVOR}玉米投手是投手兄弟中的老大。他们三兄弟当
+中，只有玉米记得其他人的生日，只是他记得
+不太准。
 
 [COFFEE_BEAN_DESCRIPTION]
-Use Coffee Beans to wake up sleeping mushrooms.
+咖啡豆，可以唤醒睡眠中的蘑菇们。
 {SHORTLINE}
-{KEYWORD}Usage:{STAT} single use, instant
-{KEYWORD}Special:{STAT} can be planted over another plant, wakes up mushrooms
+{KEYWORD}使用方法：{STAT}单独使用，立即生效
+{KEYWORD}特点：{STAT}可以种在其他植物上，用来唤醒蘑菇们
+
 {SHORTLINE}
-{FLAVOR}"Hey, guys, hey!" says Coffee Bean. "Hey! What's up? Who's that? Hey! Didja see that thing? 
-What thing? Whoa! Lions!" Yep, Coffee Bean sure does get excited.
+{FLAVOR}咖啡豆：“嘿，伙计们！嘿，怎么回事？是谁
+？嘿！你瞧见那个东西没？什么东西？哇！是
+狮子！”嗯，咖啡豆确定，这样可以让自己很
+兴奋。
 
 [GARLIC_DESCRIPTION]
-Garlic diverts zombies into other lanes.
+大蒜可以让僵尸改变前进的路线。
 {SHORTLINE}
-{KEYWORD}Usage:{STAT} on contact
-{KEYWORD}Special:{STAT} diverts zombies into other lanes
+{KEYWORD}范围：{STAT}近距离接触
+{KEYWORD}特点：{STAT}改变僵尸的前进路线
 {SHORTLINE}
-{FLAVOR}Lane-diversion isn't just Garlic's profession. It's his passion. He carries an advanced Doctorate 
-in Redirection from the Brussels University. He'll talk all day about lane vectors and repulse arrays. 
-He even pushes things into alternate avenues at home. Somehow his wife puts up with it.
+{FLAVOR}路线转向，这不仅仅是大蒜的专业，更是他的
+热情所在。他在布鲁塞尔大学里，获得了转向
+学的博士学位。他能把路线向量和反击阵列，
+讲上一整天。他甚至会把家里的东西，推到街
+上去。不知道为啥，他老婆还可以忍受这些。
+
 
 [UMBRELLA_LEAF_DESCRIPTION]
-Umbrella Leaves protect nearby plants from bungees and catapults.
+叶子保护伞保护着邻近的植物不被蹦极僵尸和
+投石车僵尸所伤害。
 {SHORTLINE}
-{KEYWORD}Special:{STAT} protects adjacent plants from bungees and catapults
+{KEYWORD}特点：{STAT}保护邻近的植物，不被蹦极僵尸和投石
+车僵尸所伤害
 {SHORTLINE}
-{FLAVOR}"SPROING!" says Umbrella Leaf. "Didja like that? I can do it again. SPROING! Woo! That's me 
-popping up to protect stuff around me. Yeah. Just like that. EXACTLY like that. Believe it."
+{FLAVOR}叶子保护伞：“砰！你喜欢这样不，我还可以
+做给你瞧。砰！哇！我快速向上张开我的叶子
+，来保护我的邻居。耶！就是这样。没错，就
+是这样，相信我。
 
 [MARIGOLD_DESCRIPTION]
-Marigolds give you silver and gold coins.
+金盏花可以提供金币和银币。
 {SHORTLINE}
-{KEYWORD}Special:{STAT} gives coins
+{KEYWORD}特点：{STAT}提供金币和银币
 {SHORTLINE}
-{FLAVOR}Marigold spends a lot of time deciding whether to spit out a silver coin or a gold one. She 
-thinks about it, weighs the angles. She does solid research and keeps up with current publications. 
-That's how winners stay ahead.
+{FLAVOR}金盏花花了许多时间，来考虑是吐出一枚金币
+，还是吐出一枚银币。她权衡着各个角度不停
+地思索着。她做了坚实的研究，并且，继续出
+版她当前的研究成果。这就是成功者们，总是
+最先进的原因。
 
 [MELON_PULT_DESCRIPTION]
-Melon-pults do heavy damage to groups of zombies.
+西瓜投手可以对成群的僵尸造成巨大伤害。
 {SHORTLINE}
-{KEYWORD}Damage:{STAT} heavy
-{KEYWORD}Range:{STAT} lobbed
-{KEYWORD}Special:{STAT} melons damage nearby enemies on impact
+{KEYWORD}伤害：{STAT}大
+{KEYWORD}范围：{STAT}抛掷
+{KEYWORD}特点：{STAT}西瓜可以对目标附近的僵尸造成伤害
 {SHORTLINE}
-{FLAVOR}There's no false modesty with Melon-pult. "Sun-for-damage, I deliver the biggest punch on 
-the lawn," he says. "I'm not bragging. Run the numbers. You'll see."
+{FLAVOR}低调从来不是西瓜投手的风格，“太阳——赐
+予我——力量，我可是草地上最能打的人”，
+他说“我不是吹牛，瞅瞅那些统计数字，你就
+就明白了。”
 
 [GATLING_PEA_DESCRIPTION]
-Gatling Peas shoot four peas at a time.
+机枪射手可以一次发射四颗豌豆
 {SHORTLINE}
-{KEYWORD}Damage:{STAT} normal (for each pea)
-{KEYWORD}Firing Speed:{STAT} 4x
-{KEYWORD}Must be planted on repeaters
+{KEYWORD}伤害：{STAT}中等(每颗)
+{KEYWORD}发射速度：{STAT}四倍
+{KEYWORD}只能种在双发射手上
 {SHORTLINE}
-{FLAVOR}Gatling Pea's parents were concerned when he announced his intention to join the military. 
-"But honey, it's so dangerous!" they said in unison. Gatling Pea refused to budge. "Life is dangerous," 
-he replied, eyes glinting with steely conviction.
+{FLAVOR}当机枪射手宣布他要参军的时候，他的父母很
+为他担心，他们异口同声地对他说：“亲爱的
+，但这太危险了。”机枪射手拒绝让步，“生
+活本就危险，”他这样回答着，此时他的眼睛
+里，正闪烁着钢铁般的信念。
 
 [TWIN_SUNFLOWER_DESCRIPTION]
-Twin Sunflowers give twice as much sun as a normal sunflower.
+双子向日葵的阳光产量是普通向日葵的两倍。
+
 {SHORTLINE}
-{KEYWORD}Sun production:{STAT} double
-{KEYWORD}Must be planted on sunflowers
+{KEYWORD}阳光产量：{STAT}双倍
+{KEYWORD}只能种在普通向日葵上
 {SHORTLINE}
-{FLAVOR}It was a crazed night of forbidden science that brought Twin Sunflower into existence. Thunder 
-crashed overhead, strange lights flickered, even the very roaring wind seemed to hiss its angry denial. 
-But to no avail. Twin Sunflower was alive, ALIVE!
+{FLAVOR}这是一个疯狂的夜晚，禁忌的科学技术，让双
+子向日葵来到了这个世界。电闪雷鸣，狂风怒
+吼，都在表示着这个世界对他的拒绝。但是一
+切都无济于事，双子向日葵他却仍然活着！
 
 [GLOOM_SHROOM_DESCRIPTION]
-Gloom-shrooms release heavy fumes in an area around themselves.
+忧郁蘑菇围绕自身释放大量烟雾
 {SHORTLINE}
-{KEYWORD}Must be planted on fume-shrooms
+{KEYWORD}必须种植在大喷菇上
 {SHORTLINE}
-{FLAVOR}"I've always enjoyed releasing heavy fumes," says Gloom Shroom. "I know a lot of people aren't 
-cool with that. They say it's rude or that it smells bad. All I can say is, would you rather have your 
-brain eaten by zombies?"
+{FLAVOR}“我一直喜欢释放大量烟雾，”忧郁蘑菇说。
+“我知道很多人受不了这样，他们说这又粗鲁
+又恶臭。我只能说，你们更想被僵尸吃掉大脑
+么？”
 
 [CATTAIL_DESCRIPTION]
-Cattails can attack any lane and shoot down balloon zombies too.
+攻击任何线上的僵尸以及气球僵尸
 {SHORTLINE}
-{KEYWORD}Must be planted on lily pads
+{KEYWORD}必须种植在睡莲上
 {SHORTLINE}
-{FLAVOR}"Woof!" says Cattail. "Woof woof woof! Does this confuse you? Do you expect me to say 'Meow' 
-like a cat just because the word 'cat' is in my name and I also look like a cat? That's not how things 
-work around here. I refuse to be pigeonholed."
+{FLAVOR}“嗷！”香蒲说。“嗷！嗷！嗷！这让你困惑
+么？你不会就因为我名字里有猫还有我看着像
+只猫就期待我喵喵喵的叫？这里可不是这样滴
+~~我可拒绝被随便归类。”
 
 [WINTER_MELON_DESCRIPTION]
-Winter Melons do heavy damage and slow groups of zombies.
+“冰”瓜可以造成范围性伤害并让僵尸减速
 {SHORTLINE}
-{KEYWORD}Damage:{STAT} very heavy
-{KEYWORD}Range:{STAT} lobbed
-{KEYWORD}Firing Speed:{STAT} 1/2x
-{KEYWORD}Special:{STAT} melons damage and freeze nearby enemies on impact
-{KEYWORD}Must be planted on melon-pults
+{KEYWORD}伤害：{STAT}非常高
+{KEYWORD}范围：{STAT}吊射
+{KEYWORD}减速：{STAT}1/2x
+{KEYWORD}特点：{STAT}击中后造成范围伤害并减速
+{KEYWORD}必须种植在西瓜投石车上
 {SHORTLINE}
-{FLAVOR}Winter Melon tries to calm his nerves. He hears the zombies approach. Will he make it? Will anyone make it?
+{FLAVOR}“冰”瓜试着让自己紧绷的神经冷静下来。他
+听到僵尸的接近。他能做到么？有人能做到么
+？
 
 [GOLD_MAGNET_DESCRIPTION]
-Gold Magnets collect coins and diamonds for you.
+吸金磁可以为你收集硬币和钻石
 {SHORTLINE}
-{KEYWORD}Must be planted on magnet-shrooms
+{KEYWORD}必须种植在磁力菇上
 {SHORTLINE}
-{FLAVOR}"How did I end up here?" asks Gold Magnet. "I was on the fast track --corner office, full 
-benefits, stock options. I was gonna be Vice President of Midwestern Operations. Now I'm here, on this 
-lawn, in serious danger of being eaten to death. Ooh! A coin!"
+{FLAVOR}“我怎么在这终老一生”吸金磁问道，“我曾
+经也有是平步青云的——坐在办公室的一角，
+完全的福利啊，股票期权啊。我曾经也是中美
+公司副总裁啊！现在呢？我却在这，在这个破
+草地上，时刻担心会被僵尸吃掉！喔~等等，
+有枚硬币！”
 
 [COB_CANNON_DESCRIPTION]
-Click on the Cob Cannon to launch deadly cobs of corn.
+点击玉米加农炮发射致命的玉米炮弹
 {SHORTLINE}
-{KEYWORD}Must be planted on 2 side-by-side kernel-pults
+{KEYWORD}必须种植在两个相邻的玉米投石车上
 {SHORTLINE}
-{FLAVOR}What's the deal with Cob Cannon, anyway?  He went to Harvard. He practices law in a prestigious 
-New York firm. He can explode whole areas of zombies with a single corn-launch. All this is common knowledge. 
-But deep inside, what really makes him tick?
+{FLAVOR}玉米加农炮到底是怎样？，嗯~他曾经在哈佛
+学习，并就职于一家著名的纽约法律事务所。
+他发射一次就能炸烂大范围的僵尸。这是大家
+都知道的事。不过往深了想，到底是什么激发
+了他？
 
 [IMITATER_DESCRIPTION]
-Imitaters let you use two of the same plant during a level!
+模仿者允许你在同一个关卡使用两份相同的植
+物！
 {SHORTLINE}
-{FLAVOR}"I remember the Zombie Wars back in '76," says Imitater in a raspy, old-man's voice. "Back then, 
-we didn't have all these fancy peashooters and jalapenos. All we had was guts. Guts and a spoon."
+{FLAVOR}“我还记得76年的那次僵尸战争，模仿者以沙
+哑的口吻叙述着，“那时候，我们可没有像豌
+豆射手和火爆辣椒，这样的好伙计。我们只能
+靠自己的勇气，以及手中的小铲子！”
 
 [SPIKEROCK_DESCRIPTION]
-Spikerocks pop multiple tires and damage zombies that walk over it.
+地刺王可以扎破多个轮胎，并对踩到他的僵尸
+造成伤害。
 {SHORTLINE}
-{KEYWORD}Must be planted on spikeweeds
+{KEYWORD}必须种植在地刺上
 {SHORTLINE}
-{FLAVOR}Spikerock just got back from a trip to Europe. He had a great time, met some wonderful people, 
-really broadened his horizons. He never knew they made museums so big, or put so many paintings in them. 
-That was a big surprise for him.
+{FLAVOR}地刺王刚刚从欧洲旅行回来。他玩的很高兴，
+也认识了很多有趣的人。这些都真的拓展了他
+的视野——他从来不知道，他们建造了这么大
+的博物馆，有这么多的画作。这对他来说太惊
+奇了。
 
 [ZOMBIE_DESCRIPTION]
-Regular Garden-variety Zombie
+普通僵尸
 {SHORTLINE}
-{KEYWORD}Toughness:{STAT} low {270}
+{KEYWORD}韧性：{STAT}低{270}
 {SHORTLINE}
-{FLAVOR}This zombie loves brains. Can't get enough. Brains, brains, brains, day in and night out. 
-Old and stinky brains? Rotten brains? Brains clearly past their prime? Doesn't matter. Regular zombie wants 'em. 
+{FLAVOR}这种僵尸喜爱脑髓，贪婪而不知足。脑髓，脑
+髓，脑髓，夜以继日地追求着。
+老而臭的脑髓？腐烂的脑髓？都没关系。僵尸
+需要它们。
 
 [FLAG_ZOMBIE_DESCRIPTION]
-Flag Zombie marks the arrival of a huge pile or "wave" of zombies.
+摇旗僵尸标志着即将来袭的一大堆僵尸“流”
+。
 {SHORTLINE}
-{KEYWORD}Toughness:{STAT} low {270}
+{KEYWORD}韧性：{STAT}低{270}
 {SHORTLINE}
-{FLAVOR}Make no mistake, Flag Zombie loves brains. But somewhere down the line he also picked 
-up a fascination with flags. Maybe it's because the flags always have brains on them. Hard to say.
+{FLAVOR}毫无疑问，摇旗僵尸喜爱脑髓。但在私下里他
+也迷恋旗帜。也许是因为旗帜上也画有脑子吧
+，这很难说。
 
 [CONEHEAD_ZOMBIE_DESCRIPTION]
-His traffic cone headpiece makes him twice as tough as normal zombies.
+他的路障头盔，使他两倍坚韧于普通僵尸。
 {SHORTLINE}
-{KEYWORD}Toughness:{STAT} medium {640}
+{KEYWORD}韧性：{STAT}中{640}
 {SHORTLINE}
-{FLAVOR}Conehead Zombie shuffled mindlessly forward like every other zombie.
-But something made him stop, made him pick up a traffic cone and stick it on his head. Oh yeah. He likes to party.
+{FLAVOR}和其他僵尸一样，路障头僵尸盲目地向前。但
+某些事物却使他停下脚步，捡起一个交通路障
+，并固实在自己的脑袋上。是的，他很喜欢参
+加聚会。
 
 [BUCKETHEAD_ZOMBIE_DESCRIPTION]
-His bucket hat makes him extremely resistant to damage.
+他的铁桶头盔，能极大程度的承受伤害。
 {SHORTLINE}
-{KEYWORD}Toughness:{STAT} high {1370}
-{KEYMETAL}Weakness:{METAL} magnet-shroom
+{KEYWORD}韧性：{STAT}高{1370}
+{KEYMETAL}弱点：{METAL}磁力菇
 {SHORTLINE}
-{FLAVOR}Buckethead Zombie always wore a bucket. Part of it was to assert his uniqueness 
-in an uncaring world. Mostly he just forgot it was there in the first place.
+{SHORTLINE}
+{FLAVOR}铁桶头僵尸经常戴着水桶，在冷漠的世界里显
+得独一无二。但事实上，他只是忘记了，那铁
+桶还在他头上而已。
 
 [POLE_VAULTING_ZOMBIE_DESCRIPTION]
-Pole Vaulting Zombie vaults with a pole.
+撑杆僵尸运用标杆高高地跃过障碍物。
 {SHORTLINE}
-{KEYWORD}Toughness:{STAT} medium {500}
-{KEYWORD}Speed:{STAT} fast, then normal (after jump)
-{KEYWORD}Special:{STAT} jumps the first plant he runs into
+{KEYWORD}韧性：{STAT}中{500}
+{KEYWORD}速度：{STAT}快，而后慢(跳跃后)
+{KEYWORD}特点：{STAT}跃过他所碰到的第一株植物
 {SHORTLINE}
-{FLAVOR}Some zombies take it further, aspire more, push themselves beyond the 
-normal into greatness. That's Pole Vaulting Zombie right there. That is so him.
+{FLAVOR}一些僵尸渴望走得更远、得到更多，这也促使
+他们由普通成为非凡。那就是撑杆僵尸。
 
 [NEWSPAPER_ZOMBIE_DESCRIPTION]
-His newspaper provides limited defense.
+他的报纸只能提供有限的防御。
 {SHORTLINE}
-{KEYWORD}Toughness:{STAT} low {270}
-{KEYWORD}Newspaper Toughness:{STAT} low {150}
-{KEYWORD}Speed:{STAT} normal, then fast (after losing newspaper)
+{KEYWORD}韧性：{STAT}低{270}
+{KEYWORD}报纸韧性：{STAT}低{150}
+{KEYWORD}速度：{STAT}正常，而后快(失去报纸后)
 {SHORTLINE}
-{FLAVOR}Newspaper Zombie was *this* close to finishing his sudoku puzzle. No wonder he's freaking out.
+{FLAVOR}读报僵尸，他正痴迷于完成他的数独难题。难
+怪他这么反常。
 
 [SCREEN_DOOR_ZOMBIE_DESCRIPTION]
-His screen door is an effective shield.
+他的铁栅门是有效的盾牌。
 {SHORTLINE}
-{KEYWORD}Toughness:{STAT} low {270}
-{KEYWORD}Screen Door Toughness:{STAT} high {1100}
-{KEYWORD}Weakness:{STAT} fume-shroom{METAL} and magnet-shroom{KEYWORD}
+{KEYWORD}韧性：{STAT}低{270}
+{KEYWORD}铁栅门韧性：{STAT}高{1100}
+{KEYWORD}弱点：{STAT}大喷菇{METAL}和磁力菇{KEYWORD}
 {SHORTLINE}
-{FLAVOR}He got his screen door from the last inexpertly defended home he visited, after he ATE THE HOMEOWNER'S BRAINS.
+{FLAVOR}铁栅门僵尸上次拜访过的房主防守并不专业，
+在吃掉那房主的脑子后拿走了他家的铁栅门。
+
 
 [FOOTBALL_ZOMBIE_DESCRIPTION]
-Football Zombie makes the big plays.
+橄榄球僵尸的表演秀。
 {SHORTLINE}
-{KEYWORD}Toughness:{STAT} very high {1670}
-{KEYWORD}Speed:{STAT} fast
-{KEYMETAL}Weakness:{METAL} magnet-shroom
+{KEYWORD}韧性：{STAT}极高{1670}
+{KEYWORD}速度：{STAT}快
+{KEYMETAL}弱点：{METAL}磁力菇
 {SHORTLINE}
-{FLAVOR}Football Zombie gives 110 percent whenever he's on the field. He's a team player 
-who delivers both offensively and defensively. He has no idea what a football is.
+{SHORTLINE}
+{FLAVOR}在球场上，橄榄球僵尸表现出110%的激情，他
+进攻防守样样在行。虽然他完全不知道橄榄球
+是什么。
 
 [DANCING_ZOMBIE_DESCRIPTION]
-Any resemblance between Dancing Zombie and persons living or dead is purely coincidental.
+舞王僵尸和人类(在世或者死去的)如有雷同，
+纯属巧合。
 {SHORTLINE}
-{KEYWORD}Toughness:{STAT} medium {500}
-{KEYWORD}Special:{STAT} summons back-up dancers
+{KEYWORD}韧性：{STAT}中{500}
+{KEYWORD}特点：{STAT}召唤伴舞僵尸
 {SHORTLINE}
-{FLAVOR}Dancing Zombie's latest album, "GrarrBRAINSarblarbl," is already rocketing up the undead charts.
+{FLAVOR}舞王僵尸的最新唱片“哇脑乳阿卜阿卜”在僵
+尸界的人气正急速飙升。
 
 [BACKUP_DANCER_DESCRIPTION]
-These zombies appear in sets of four whenever Dancing Zombie rocks out.
+当舞王僵尸摇摆时，这种僵尸四个结伙出现。
+
 {SHORTLINE}
-{KEYWORD}Toughness:{STAT} low {270}
+{KEYWORD}韧性：{STAT}低{270}
 {SHORTLINE}
-{FLAVOR}Backup Dancer Zombie spent six years perfecting his art at the Chewliard 
-Performing Arts School in Zombie New York City.
+{FLAVOR}伴舞僵尸曾在位于僵尸纽约城的“咀利牙”表
+演艺术学院钻研过六年的舞技。
 
 [DUCKY_TUBE_ZOMBIE_DESCRIPTION]
-The ducky tube allows this zombie to float on water.
+鸭子救生圈能让僵尸能浮在水面上。
 {SHORTLINE}
-{KEYWORD}Toughness:{STAT} low {270}
-{AQUATIC}Only appears in the pool
+{KEYWORD}韧性：{STAT}低{270}
+{AQUATIC}只在水池关卡出现
 {SHORTLINE}
-{FLAVOR}It takes a certain kind of zombie to be a Ducky Tuber. Not every zombie can handle it. 
-Some crack. They can't take it. They walk away and give up on brains forever.
+{FLAVOR}只有特定的僵尸才能成为救生圈僵尸。并不是
+每个僵尸都能胜任的。
+有些救生圈有点漏气，但他们没能注意到，所
+以他们离开并放弃了对脑子的渴求。
 
 [SNORKEL_ZOMBIE_DESCRIPTION]
-Snorkel zombies can swim underwater.
+潜水僵尸可以在水下前行。
 {SHORTLINE}
-{KEYWORD}Toughness:{STAT} low {270}
-{KEYWORD}Special:{STAT} submerges to avoid attacks
-{AQUATIC}Only appears in the pool
+{KEYWORD}韧性：{STAT}低{270}
+{KEYWORD}特点：{STAT}潜泳以避免遭到攻击
+{AQUATIC}只在水池关卡出现
 {SHORTLINE}
-{FLAVOR}Zombies don't breathe. They don't need air. So why does Snorkel Zombie need a snorkel to swim underwater?{KEYWORD}
-{FLAVOR}Answer: peer pressure.
+{FLAVOR}僵尸不呼吸。他们不需要空气。那么为什么潜
+水僵尸需要一套潜水装置来潜水呢？{KEYWORD}
+{FLAVOR}答案：同行的压力。
 
 [ZOMBONI_DESCRIPTION]
-The Zomboni applies ice, steam and pressure to your plants.
+造冰车僵尸运用冰雪，碾过你的植物。
 {SHORTLINE}
-{KEYWORD}Toughness:{STAT} high {1350}
-{KEYWORD}Special:{STAT} crushes plants, leaves an ice trail
+{KEYWORD}韧性：{STAT}高{1350}
+{KEYWORD}特点：{STAT}碾压植物，留下条冰道
 {SHORTLINE}
-{FLAVOR}Often mistaken for a zombie driving an ice machine, the Zomboni is a totally different life-form more closely related to a space ogre than a 
-zombie.
+{FLAVOR}经常被误以为是在驾驶着造冰车的僵尸，但事
+实上造冰车僵尸是种完全不同的生物形式，他
+与太空兽人联系更紧密而不是僵尸。
 
 [ZOMBIE_BOBSLED_TEAM_DESCRIPTION]
-These zombies appear in teams of four.
+这些僵尸以四人小队形式出现。
 {SHORTLINE}
-{KEYWORD}Toughness:{STAT} low (each zombie) {270}
-{KEYWORD}Bobsled Toughness:{STAT} low {300}
-{KEYWORD}Special:{STAT} only appears on ice
+{KEYWORD}韧性：{STAT}低(每个僵尸){270}
+{KEYWORD}冰车韧性：{STAT}低{300}
+{KEYWORD}特点：{STAT}只在雪地里出现
 {SHORTLINE}
-{FLAVOR}Zombie Bobsled Team worked hard to get where they are. They live together, eat brains 
-together and train together to become a cohesive zombie unit.
+{FLAVOR}雪橇僵尸小队尽力到达他们所要去的地方。他
+们互相依赖、分享脑子并共同训练成为一个合
+作无间的僵尸小队。
 
 [DOLPHIN_RIDER_ZOMBIE_DESCRIPTION]
-Dolphin Rider Zombies use dolphins to exploit weaknesses in your pool defense.
+海豚骑士僵尸善于利用你水池防御的弱点。
 {SHORTLINE}
-{KEYWORD}Toughness:{STAT} medium {500}
-{KEYWORD}Speed:{STAT} fast, then slow (after jump)
-{KEYWORD}Special:{STAT} jumps over the first plant he runs into
-{AQUATIC}Only appears in the pool
+{KEYWORD}韧性：{STAT}中{500}
+{KEYWORD}速度：{STAT}快，慢(跳跃后)
+{KEYWORD}特点：{STAT}跃过他所碰到的第一株植物
+{AQUATIC}只在水池关卡出现
 {SHORTLINE}
-{FLAVOR}The dolphin is also a zombie.
+{FLAVOR}那海豚其实也是个僵尸。
 
 [ZOMBIE_YETI_DESCRIPTION]
-A rare and curious creature.
+一种罕见而古怪的生物。
 {SHORTLINE}
-{KEYWORD}Toughness:{STAT} high {1350}
-{KEYWORD}Special:{STAT} runs away after a short while
+{KEYWORD}韧性：{STAT}高{1350}
+{KEYWORD}特点：{STAT}一小会儿后会逃跑
 {SHORTLINE}
-{FLAVOR}Little is known about the Zombie Yeti other than his name, birth date, social security number, 
-educational history, past work experience and sandwich preference (roast beef and Swiss).
+{FLAVOR}关于僵尸雪人的资料很少，除了他的名字、出
+生日期、社保号、受教育程度、工作履历以及
+喜爱夹心三明治(烤牛肉及瑞士人肉口味)。
 
 [JACK_IN_THE_BOX_ZOMBIE_DESCRIPTION]
-This zombie carries an explosive surprise.
+这种僵尸带着个会爆炸的潘多拉盒子。
 {SHORTLINE}
-{KEYWORD}Toughness:{STAT} medium {500}
-{KEYWORD}Speed:{STAT} fast
-{KEYWORD}Special:{STAT} jack-in-the-box explodes
-{KEYMETAL}Weakness:{METAL} magnet-shroom
+{KEYWORD}韧性：{STAT}中{500}
+{KEYWORD}速度：{STAT}快
+{KEYWORD}特点：{STAT}打开玩偶匣会爆炸
+{KEYMETAL}弱点：{METAL}磁力菇
 {SHORTLINE}
-{FLAVOR}This zombie shivers, not because he's cold but because he's crazy.
+{FLAVOR}这种僵尸令人不寒而栗，不是因为他的冰冷身
+躯而是因为他的疯狂。
 
 [BALLOON_ZOMBIE_DESCRIPTION]
-Balloon Zombie floats above the fray, immune to most attacks.
+气球僵尸漂浮在空中，躲过大多数攻击。
 {SHORTLINE}
-{KEYWORD}Toughness:{STAT} low {270}
-{KEYWORD}Special:{STAT} flying
-{KEYWORD}Weakness:{STAT} cactus and blover
+{KEYWORD}韧性：{STAT}低{270}
+{KEYWORD}特点：{STAT}飞行
+{KEYWORD}弱点：{STAT}仙人掌和三叶草
 {SHORTLINE}
-{FLAVOR}Balloon Zombie really lucked out. The balloon thing really works and 
-none of the other zombies have picked up on it.
+{FLAVOR}气球僵尸真幸运。气球有很多功效，而其他僵
+尸都不曾捡到过。
 
 [DIGGER_ZOMBIE_DESCRIPTION]
-This zombie digs to bypass your defenses.
+这种僵尸通过挖隧道来穿过你的防御。
 {SHORTLINE}
-{KEYWORD}Toughness:{STAT} medium {370}
-{KEYWORD}Speed:{STAT} fast, then slow
-{KEYWORD}Special:{STAT} tunnels underground and appears on the left side of the lawn
-{KEYWORD}Weakness:{STAT} split pea{METAL} and magnet-shroom{KEYWORD}
+{KEYWORD}韧性：{STAT}中{370}
+{KEYWORD}速度：{STAT}快，而后慢
+{KEYWORD}特点：{STAT}穿过地下隧道并出现在草坪的左侧
+{KEYWORD}弱点：{STAT}裂荚射手{METAL}和磁力菇{KEYWORD}
 {SHORTLINE}
-{FLAVOR}Digger Zombie spends three days a week getting his excavation permits in order.
+{FLAVOR}矿工僵尸每周花费三天时间来申请他的挖掘许
+可证。
 
 [POGO_ZOMBIE_DESCRIPTION]
-Pogo Zombie hops to bypass your defenses.
+跳跳僵尸能跳跃过你的防守。
 {SHORTLINE}
-{KEYWORD}Toughness:{STAT} medium {500}
-{KEYWORD}Special:{STAT} hops over plants
-{KEYMETAL}Weakness:{METAL} magnet-shroom
+{KEYWORD}韧性：{STAT}中{500}
+{KEYWORD}特点：{STAT}跃过植物
+{KEYMETAL}弱点：{METAL}磁力菇
 {SHORTLINE}
-{FLAVOR}Sproing! Sproing! Sproing! That's the sound of a powerful and effective zombie doing what he does best.
+{FLAVOR}蹦！蹦！蹦！那是跳跳僵尸发出的有力且有效
+地声音。
 
 [BUNGEE_ZOMBIE_DESCRIPTION]
-Bungee Zombie attacks from above.
+蹦极僵尸从天上攻击。
 {SHORTLINE}
-{KEYWORD}Toughness:{STAT} medium {400}
-{KEYWORD}Special:{STAT} descends from the sky and steals a plant
+{KEYWORD}韧性：{STAT}中{400}
+{KEYWORD}特点：{STAT}从天而降并窃取你的植物
 {SHORTLINE}
-{FLAVOR}Bungee Zombie loves to take risks. After all, what's the point of being dead if you don't live a little?
+{FLAVOR}蹦极僵尸最爱冒险。毕竟，如果你不再活着，
+那再体验次死亡又有何妨呢？
 
 [LADDER_ZOMBIE_DESCRIPTION]
-Ladder Zombie climbs over obstacles.
+梯子僵尸能爬过障碍物。
 {SHORTLINE}
-{KEYWORD}Toughness:{STAT} medium {500}
-{KEYWORD}Ladder Toughness:{STAT} medium {500}
-{KEYWORD}Speed:{STAT} fast, then slow (after placing ladder)
-{KEYWORD}Weakness:{STAT} fume-shroom{METAL} and magnet-shroom{KEYWORD}
+{KEYWORD}韧性：{STAT}中{500}
+{KEYWORD}梯子韧性：{STAT}中{500}
+{KEYWORD}速度：{STAT}快，而后慢(放置梯子后)
+{KEYWORD}弱点：{STAT}大喷菇{METAL}和磁力菇{KEYWORD}
 {SHORTLINE}
-{FLAVOR}He picked the ladder up for $8.99.
+{FLAVOR}这架梯子花了他$8.99。
 
 [CATAPULT_ZOMBIE_DESCRIPTION]
-Catapult Zombie operates heavy machinery.
+投石车僵尸操作着重型机器。
 {SHORTLINE}
-{KEYWORD}Toughness:{STAT} medium {850}
-{KEYWORD}Special:{STAT} lobs basketballs at your plants
+{KEYWORD}韧性：{STAT}中{850}
+{KEYWORD}特点：{STAT}对你的植物投掷篮球
 {SHORTLINE}
-{FLAVOR}Of all the things Catapult Zombie could launch with his catapult, basketballs seemed 
-like the best and most obvious choice.
+{FLAVOR}投石车僵尸可以利用弹射器来发射任何东西，
+但篮球似乎是绝佳选择。
 
 [GARGANTUAR_DESCRIPTION]
-Gargantuar is a gigantic zombie.
+伽刚特尔是一种巨型僵尸
 {SHORTLINE}
-{KEYWORD}Toughness:{STAT} extremely high {3000}
+{KEYWORD}韧性：{STAT}极高{3000}
 {SHORTLINE}
-{FLAVOR}When Gargantuar walks, the earth trembles. When he moans, other zombies fall silent.
-He is the zombie other zombies dream they could be. But he still can't find a girlfriend. 
+{FLAVOR}当伽刚特尔走动的时候，大地在震颤。当他悲
+叹的时候，所有的僵尸都沉寂了。他是僵尸们
+梦想成为的偶像。不过呢，他到现在还没交到
+女朋友。
 
 [IMP_DESCRIPTION]
-Imps are tiny zombies hurled by Gargantuar deep into your defenses.
+小淘气们是一群小型僵尸，他们被伽刚特尔用
+来投掷进你的防御体系。
 {SHORTLINE}
-{KEYWORD}Toughness:{STAT} low {270}
+{KEYWORD}韧性：{STAT}低{270}
 {SHORTLINE}
-{FLAVOR}Imp may be small, but he's wiry. He's proficient in zombie judo, zombie karate 
-and zombie bare-knuckle brawling. He also plays the melodica.
+{FLAVOR}小淘气虽然瘦小，却很结实。他精通僵尸柔道
+，僵尸空手道和僵尸关节技。另外，他还会吹
+口琴。
 
 [BOSS_DESCRIPTION]
-Dr. Zomboss rules them all.
+僵王博士统治所有的僵尸
 {SHORTLINE}
-{KEYWORD}Toughness (in Zombot shell):{STAT} extreme
+{KEYWORD}韧性(受僵尸机器人保护)：{STAT}极高
 {SHORTLINE}
-{FLAVOR}Edgar George Zomboss achieved his Doctorate in Thanatology in only two years. Quickly mastering 
-thanatological technology, he built his fearsome Zombot and set about establishing absolute dominance of his local subdivision.
+{FLAVOR}僵王?乔治?埃德加只花了两年就获得了死亡学
+的博士学位。很快就掌握了死亡学的技术，他
+制造了一只恐怖的巨型僵尸机器人，着手建立
+起一个独裁的地方势力。
 
 [DOG_WALKING_ZOMBIE_DESCRIPTION]
-Dog Walking Zombie description
+遛狗僵尸的描述
 
 [DOG_ZOMBIE_DESCRIPTION]
-Dog Zombie description
+僵尸狗的描述
 
 [PROPELLER_ZOMBIE_DESCRIPTION]
-Propeller Zombie description
+螺旋桨僵尸的描述
 
 [CRAZY_DAVE_201]
-Evening, {PLAYER_NAME}.
+晚上好， {PLAYER_NAME}。
+
 [CRAZY_DAVE_202]
-Those zombies just won't let up, will they?
+那些僵尸不会减弱攻势吧？
+
 [CRAZY_DAVE_203]
-You'll notice that fighting zombies at night is different than in the day.
+你会注意到和僵尸作战在夜间不
+同于白天之处。
+
 [CRAZY_DAVE_204]
-For one, you won't get any sun falling from the sky.
+首先，你不能从天上得到阳光。
+
+
 [CRAZY_DAVE_205]
-You can still get sun from sunflowers, though.
+但你仍可以通过向日葵来获得阳
+光。
+
 [CRAZY_DAVE_206]
-And lucky for you, you got yourself some puff-shrooms.
+并且你很幸运，你得到了小喷菇
+。
+
 [CRAZY_DAVE_207]
-Plant as many of those as you can and you'll be A-O-GOOD.
+尽可能多地种植这些蘑菇吧，你
+会挺过去的。
 
 [CRAZY_DAVE_301]
-Hey, you found my car key!
+嘿，你找到了我的车钥匙！
+
 [CRAZY_DAVE_302]
-You know what that means...
+你知道这意味着……
+
 [CRAZY_DAVE_303]
-Crazy Dave's Twiddydinkies is open for business! {MOUTH_SMALL_SMILE}
+疯狂戴夫的“花哨小玩意”正式
+营业了！ {MOUTH_SMALL_SMILE}
+
 [CRAZY_DAVE_304]
-Have a look! See if you can't find something you like! {MOUTH_SMALL_SMILE}
+瞧一瞧！你是否找到了一些你喜
+欢的东西！ {MOUTH_SMALL_SMILE}
 
 [CRAZY_DAVE_401]
-Ever play a game called Whack-a-Zombie?
+玩过“敲击僵尸”的游戏吗？
+
 [CRAZY_DAVE_402]
-It's just like huntin' squirbos.
+这就像是玩敲地鼠。
+
 [CRAZY_DAVE_403]
-You know, those furry little rodents that dig holes in your lawn?
+你看，那些毛茸茸的小老鼠是在
+你的草坪里打洞吗？
+
 [CRAZY_DAVE_404]
-Yeah, just like that, but instead of squirbos, it's zombies.
+耶，就像那样，但不是鼹鼠，而
+是僵尸。
+
 [CRAZY_DAVE_405]
-{SHOW_HAMMER}And instead of a shovel, it's a mallet.
+{SHOW_HAMMER}并且不是铁锹，是短槌。
+
 [CRAZY_DAVE_406]
-And instead of ME, it's YOU! {MOUTH_BIG_SMILE} {SCREAM}
+当然不是我，是你！{MOUTH_BIG_SMILE} {SCREAM}
 
 [CRAZY_DAVE_501]
-Looks like the zombies gave up attacking your front yard.
+看来僵尸们要放弃进攻你的前院
+了。
+
 [CRAZY_DAVE_502]
-Now they're trying your backyard.
+现在他们想试试你的后院。
+
 [CRAZY_DAVE_503]
-And to top it all off, you can't even use your mushrooms!
+但最重要的是你不能使用你的蘑
+菇了！
+
+
 [CRAZY_DAVE_504]
-'cause they'll fall asleep during the day!
+因为他们白天时要睡觉！
+
+
 [CRAZY_DAVE_505]
-Well isn't that just dandy!
+这难道不是花花公子的作风吗？
 
+  
 [CRAZY_DAVE_601]
-YOU FOUND MY MAGIC TACO!! {SCREAM2}
-[CRAZY_DAVE_602]
-{SHOW_MONEYBAG}I must have it! I'll give you $1000!
-[CRAZY_DAVE_603]
-YES!  THE TACO IS MINE! {SCREAM}
-[CRAZY_DAVE_604]
-Why'd I give you so much money for a taco?
-[CRAZY_DAVE_605]
-{SHAKE}BECAUSE I'M CRAAAAZY!!!! {MOUTH_BIG_SMILE}
-[CRAZY_DAVE_606]
-Take a look around my shop! You'll notice I got some new items in stock!
+你找到了我的魔法零件！！ {SCREAM2}
 
+[CRAZY_DAVE_602]
+{SHOW_MONEYBAG}我必须拥有它！我给你$1000！
+
+ 
+[CRAZY_DAVE_603]
+很好！零件现在是我的啦！ {SCREAM}
+
+[CRAZY_DAVE_604]
+为什么我要花这么多钱买你那个
+零件？
+
+[CRAZY_DAVE_605] {SHAKE}
+因为我很疯—狂——！！！！ {MOUTH_BIG_SMILE}
+
+
+[CRAZY_DAVE_606]
+看看我的小店！你会注意到我进
+了些新货！
+ 
 [CRAZY_DAVE_701]
-Funny thing about the zombie process. Sometimes it makes 'em come out real little.
+僵尸的进攻计划其实是件有趣的
+事情。有时他们会来的很少。
+
 [CRAZY_DAVE_702]
-Real little and REAL MEAN!
+很少但很划算！
+
 [CRAZY_DAVE_703]
-Defend your shins! {SCREAM}
+防守好你的小腿吧！ {SCREAM}
 
 [CRAZY_DAVE_801]
-You know, they used to call me "Fog Man"
+你知道，他们曾叫我“迷雾男”
+。
+
 [CRAZY_DAVE_802]
-'cause I would hang out in the fog and JUMP OUT AT PEOPLE! {MOUTH_BIG_SMILE}
+因为我曾停留在雾中并突然从人
+群中跳出！{MOUTH_BIG_SMILE}
+
 [CRAZY_DAVE_803]
-Ah, those were the days. {MOUTH_SMALL_SMILE}
+噢，那都是过去的事了。 {MOUTH_SMALL_SMILE}
 
 [CRAZY_DAVE_1101]
-Why'd it get so dark all of a sudden?
+怎么突然间变得这么暗了？
+
 [CRAZY_DAVE_1102]
-This can't be good.
+噢，这可不是什么好预兆啊。
+
 [CRAZY_DAVE_1103]
-Oh well, hope you survive the night!
+嗯，好吧，希望你能活过今晚！
+
 
 [CRAZY_DAVE_1201]
-Whoa! They even found a way onto your roof!
+哇——！他们甚至在你的屋顶上
+找到条路！
+
 [CRAZY_DAVE_1202]
-Those are some persistent zombies, dude.
+真是些有毅力的僵尸。
+
 [CRAZY_DAVE_1203]
-You'll need to use cabbage-pults here due to your roof's angle.
+考虑到你屋顶的角度，你会需要
+用到卷心菜的。
+
 [CRAZY_DAVE_1204]
-Remember that, and you're good to go!
+记住这点，你会平安无事的！
 
 [CRAZY_DAVE_1301]
-Zen Garden is pretty nifty, huh?
+禅境花园，很漂亮，对吧？
+
 [CRAZY_DAVE_1302]
-You can visit it any time from the main menu.
+你随时都可以从主菜单那里来到
+这个花园。
+
 [CRAZY_DAVE_1303]
-But enough of that! It's time to defend your house!
+但是够了！是时间保卫你的房子
+了！
+
 [CRAZY_DAVE_1304]
-I have to warn you...
+我不得不警告你……
+
 [CRAZY_DAVE_1305]
-You are going to hate this next level.
+你会讨厌下一关的。
+
 [CRAZY_DAVE_1306]
-Why?  Because it's non-stop bungee zombie after bungee zombie.
+为什么？ 因为接下来是一个接
+一个的蹦极僵尸。
+
 [CRAZY_DAVE_1307]
-I hate those confounded bungees!!! {SCREAM2}
+我讨厌这些困惑的蹦极僵尸!!!
+ {SCREAM2}
+
 [CRAZY_DAVE_1308]
-I hate them!!
+我讨厌他们！
+
 [CRAZY_DAVE_1309]
-Hate them with a passion!
+讨厌他们有着那种激情！
+
 [CRAZY_DAVE_1310]
-And a vengeance!
+还有复仇的野心！
+
 [CRAZY_DAVE_1311]
-A-Whoop-a-dee-doo! Here come those idiots now!
+哇—靠——！他们中的精英来了
+！
 
 [CRAZY_DAVE_1401]
-Hey, you've collected {MONEY} in coins so far!
+嘿，你目前已经收集了 {MONEY}
+ 枚金币！
+
 [CRAZY_DAVE_1402]
-When you collect {UPGRADE_COST}, I'll sell you something really neat-o!
+当你收集到 {UPGRADE_COST}时， 我会卖
+给你一些实用的东西哦！
 
 [CRAZY_DAVE_1501]
-Hey! Wanna buy an extra seed slot?
+嘿！想增加一个额外的植物槽吗
+？
+
 [CRAZY_DAVE_1502]
-It'll cost you {UPGRADE_COST}, but you'll be able to choose 7 seeds per level instead of 6!
+这将花费你 {UPGRADE_COST}，但你每关
+能选7种植物而不是6种！
+
 [CRAZY_DAVE_1503]
-{NO_CLICK}How's that sound?
+ {NO_CLICK}
+听起来怎么样？
+
 [CRAZY_DAVE_1510]
-All right! And hey, when you save up to {UPGRADE_COST}, I'll sell you the 8-seed slot upgrade!
+太好了！然后当你攒到{UPGRADE_COST}，
+我将给你升级到8个植物槽！
+
 [CRAZY_DAVE_1511]
-Check you later!
+稍等啊…
+
 [CRAZY_DAVE_1520]
-Bummer, dude!
+真TMD扫兴啊，伙计！
 
 [CRAZY_DAVE_1551]
-Hey! Wanna buy an extra seed slot?
+嘿！想增加个额外的植物槽吗？
+
+
 [CRAZY_DAVE_1552]
-It'll cost you {UPGRADE_COST}, but you'll be able to choose 8 seeds per level instead of 7!
-[CRAZY_DAVE_1553]
-{NO_CLICK}How's that sound?
+这将花费你{UPGRADE_COST}，但是你每关
+能选8种植物而不是7种！
+
+[CRAZY_DAVE_1553] {NO_CLICK}
+听起来怎么样？
+
 [CRAZY_DAVE_1560]
-All right!
+好的！
+
 [CRAZY_DAVE_1570]
-Bummer, dude!
+真TMD扫兴啊，伙计！
 
 [UPGRADE_DIALOG_BODY]
-Upgrade to {SLOTS} seed slots?
+升级到 {SLOTS} 个植物槽？
 
 [CRAZY_DAVE_1601]
-Man, those zombies just keep a-comin'!
+伙计，那些僵尸还在源源不断的
+来袭啊！
+
 [CRAZY_DAVE_1602]
-This time around, I wanna pick some seeds for you!
+这次，我想替你挑些植物！
+
 [CRAZY_DAVE_1603]
-I choose... these three!
+我选……这三种！
 
 [CRAZY_DAVE_1700]
-{NO_CLICK}I'll give you ${SELL_PRICE}0 for that {PLANT_TYPE}!
+{NO_CLICK}我给你 ${SELL_PRICE}0来换 {PLANT_TYPE}
+！
 
 [CRAZY_DAVE_2000]
-{NO_SOUND}{NO_CLICK}Plant these on your repeaters to turn them into gatling peas! Gatling peas shoot four peas at a time!
+{NO_SOUND}{NO_CLICK}把这些种在你的双发射手上，把
+它变成机枪射手！机枪射手一次
+能射出4颗豌豆！
 
 [CRAZY_DAVE_2001]
-{NO_SOUND}{NO_CLICK}Plant these on your sunflowers to turn them into twin sunflowers! Twin sunflowers give twice as much sun as a sunflower!
+{NO_SOUND}{NO_CLICK}把这些种在你的向日葵上，把它
+变成双生向日葵！双生向日葵提
+供的阳光，是向日葵的2倍！
 
 [CRAZY_DAVE_2002]
-{NO_SOUND}{NO_CLICK}Plant these on your fume-shrooms to turn them into gloom-shrooms! Gloom-shrooms do rapid attacks in a small area!
+{NO_SOUND}{NO_CLICK}把这些种在你的大喷菇上，把它
+变成忧郁菇！忧郁菇能在小范围
+内做迅速的攻击！
 
 [CRAZY_DAVE_2003]
-{NO_SOUND}{NO_CLICK}Plant these on your lily pads to turn them into cattails! Cattails can attack any lane and take down balloon zombies!
+{NO_SOUND}{NO_CLICK}把这些种在你的睡莲上，把它变
+成香蒲！香蒲能攻击任何一条线
+路，而且能打下气球僵尸！
 
 [CRAZY_DAVE_2004]
-{NO_SOUND}{NO_CLICK}Plant these on your melon-pults to turn them into winter melons! Winter melons do heavy damage and slow groups of zombies!
+{NO_SOUND}{NO_CLICK}把这些种在你的西瓜投手上，把
+它变成“冰瓜”！“冰瓜”有很
+高的攻击力，而且能让附近僵尸
+慢下来！
 
 [CRAZY_DAVE_2005]
-{NO_SOUND}{NO_CLICK}Plant these on your magnet-shrooms to turn them into gold magnets! Gold magnets collect coins and diamonds for you!
+{NO_SOUND}{NO_CLICK}把这些种在你的磁力菇上，把它
+变成吸金磁！吸金磁帮助你收集
+金币和钻石！
 
 [CRAZY_DAVE_2006]
-{NO_SOUND}{NO_CLICK}Plant these on your spikeweeds to turn them into spikerocks! Spikerocks do twice the damage and are extremely durable!
+{NO_SOUND}{NO_CLICK}把这些种在你的地刺上，把它变
+成地刺王！地刺王有着2倍的攻
+击力，且非常耐用！
 
 [CRAZY_DAVE_2007]
-{NO_SOUND}{NO_CLICK}Plant these on your kernel-pults to turn them into cob cannons! Click on a cob cannon to launch a deadly attack!
+{NO_SOUND}{NO_CLICK}把这些种在你的玉米投手上，把
+它变成玉米加农炮！点击一个玉
+米加农炮，发动致命的攻击！
 
 [CRAZY_DAVE_2008]
-{NO_SOUND}{NO_CLICK}This Imitater lets you have two of the same plant during a level!
+{NO_SOUND}{NO_CLICK}这个模仿者，让你在游戏中，会
+拥有两个相同的植物！
 
 [CRAZY_DAVE_2009]
-{NO_SOUND}{NO_CLICK}This extra mower will give you another line of defense after a lawn mower is used!
+{NO_SOUND}{NO_CLICK}这个额外的割草机，会在你的一
+个割草机被用掉后，继续给你这
+条线路提供保护！
 
 [CRAZY_DAVE_2010]
-{NO_SOUND}{NO_CLICK}This Marigold Sprout goes in your Zen Garden! Grow it to full-size, and it'll reward you nicely!
+{NO_SOUND}{NO_CLICK}这株金盏花芽种在你的禅境花园
+了！记得把它培养成熟，它会丰
+厚地回报你的！
 
 [CRAZY_DAVE_2011]
-{NO_SOUND}{NO_CLICK}This extra seed slot will let you choose 7 plants per level!
+{NO_SOUND}{NO_CLICK}额外的植物槽，将让你在每关可
+选7种植物！
 
 [CRAZY_DAVE_2012]
-{NO_SOUND}{NO_CLICK}This extra seed slot will let you choose 8 plants per level!
+{NO_SOUND}{NO_CLICK}额外的植物槽，将让你在每关可
+选8种植物！
 
 [CRAZY_DAVE_2013]
-{NO_SOUND}{NO_CLICK}This extra seed slot will let you choose 9 plants per level!
+{NO_SOUND}{NO_CLICK}额外的植物槽，将让你在每关可
+选9种植物！
 
 [CRAZY_DAVE_2014]
-{NO_SOUND}{NO_CLICK}This extra seed slot will let you choose 10 plants per level!
+{NO_SOUND}{NO_CLICK}额外的植物槽，将让你在每关可
+选10种植物！
 
 [CRAZY_DAVE_2015]
-{NO_CLICK}All twiddydinkies are priced to move!!
+{NO_CLICK}启动所有已标价的花哨小玩意！
+！
 
 [CRAZY_DAVE_2016]
-{NO_CLICK}ACT NOW! I'M CRRRRRAAAZY!! {SCREAM}
+{NO_CLICK} {SCREAM}一起来吧！我疯——掉啦！！
+
 
 [CRAZY_DAVE_2017]
-{NO_CLICK}Our prices are unbelievable!!!
+{NO_CLICK}我们的价格贵的难以置信！！！
+
 
 [CRAZY_DAVE_2018]
-{NO_CLICK}I eat food off the floor!
+{NO_CLICK}我吃地上的东西。
 
 [CRAZY_DAVE_2019]
-{NO_SOUND}{NO_CLICK}The Golden Watering Can lets you water several plants at once!
+{NO_SOUND}{NO_CLICK}黄金水壶，能让你一次浇灌四盆
+植物。
 
 [CRAZY_DAVE_2020]
-{NO_SOUND}{NO_CLICK}Your Zen Garden plants need fertilizer to grow!
+{NO_SOUND}{NO_CLICK}你禅境花园里的植物需要施肥！
+
 
 [CRAZY_DAVE_2021]
-{NO_SOUND}{NO_CLICK}This Phonograph lets you play music for your Zen Garden plants! It keeps them happy for an entire day!
+{NO_SOUND}{NO_CLICK}这台唱片机能让你放音乐。给植
+物听听吧！这会让它们整天都保
+持好心情！
 
 [CRAZY_DAVE_2022]
-{NO_SOUND}{NO_CLICK}Zen Garden plants require Bug Spray from time to time! It keeps them happy for an entire day!
+{NO_SOUND}{NO_CLICK}禅境花园里的植物们，需要时不
+时的喷喷杀虫剂！这能让它们整
+天都开心。
 
 [CRAZY_DAVE_2023]
-{NO_SOUND}{NO_CLICK}The Gardening Glove lets you move your Zen Garden plants around!
+{NO_SOUND}{NO_CLICK}园艺手套可以移动花盆！
 
 [CRAZY_DAVE_2024]
-{NO_SOUND}{NO_CLICK}You'll need this Wheel Barrow to transport your Zen Garden plants between gardens!
+{NO_SOUND}{NO_CLICK}你会需要这辆推车在各类植物园
+之间搬运植物！
 
 [CRAZY_DAVE_2025]
-{NO_SOUND}{NO_CLICK}Stinky the Snail helps you pick up coins in your Zen Garden!
+{NO_SOUND}{NO_CLICK}宠物蜗牛能帮你捡拾起植物园中
+掉落的金币！
 
 [CRAZY_DAVE_2026]
-{NO_SOUND}{NO_CLICK}These Pool Cleaners add an extra line of defense on levels with a pool!
+{NO_SOUND}
+{NO_CLICK}这辆池塘清洁车，能用来提高池
+塘的防御等级！
 
 [CRAZY_DAVE_2027]
-{NO_SOUND}{NO_CLICK}These Roof Cleaners add an extra line of defense for those difficult roof levels!
+{NO_SOUND}{NO_CLICK}这辆屋顶推车，能加强屋顶的防
+御强度！
 
 [CRAZY_DAVE_2028]
-{NO_SOUND}{NO_CLICK}This Garden Rake takes out the first zombie that steps on it! It lasts for 3 levels!
+{NO_SOUND}{NO_CLICK}这把草耙能送第一只僵尸归西！
+
 
 [CRAZY_DAVE_2029]
-{NO_SOUND}{NO_CLICK}This Aquarium Garden is a place you can keep your aquatic Zen Garden plants!
+{NO_SOUND}{NO_CLICK}水族馆能培植水生植物！
 
 [CRAZY_DAVE_2030]
-{NO_SOUND}{NO_CLICK}The Tree of Wisdom will tell you valuable tips and secrets if you grow it tall enough!
+{NO_SOUND}{NO_CLICK}智慧树会告诉一些有关僵尸的秘
+密，只要你让它生长的足够高！
+
 
 [CRAZY_DAVE_2031]
-{NO_SOUND}{NO_CLICK}Purchase some tree food to grow your Tree of Wisdom nice and tall!
+{NO_SOUND}{NO_CLICK}购买一些智慧树的肥料，喂它来
+使它长的高大魁梧！
 
 [CRAZY_DAVE_2032]
-{NO_SOUND}{NO_CLICK}This Mushroom Garden is a place you can keep your Zen Garden plants that fall asleep during the day!
+{NO_SOUND}{NO_CLICK}蘑菇园能为你培植夜习性植物！
+
 
 [CRAZY_DAVE_2033]
-{NO_SOUND}{NO_CLICK}Wall-nut First Aid lets you plant fresh new wall-nuts over damaged ones!  Works for tall-nuts and pumpkins too!
+{NO_SOUND}{NO_CLICK}坚果包扎术，能治愈你的受伤的
+坚果墙！对高坚果和南瓜头同样
+有效！
 
 [CRAZY_DAVE_2034]
-{NO_SOUND}{NO_CLICK}Get more levels, more plants, and more zombies in the full version of this game!
+{NO_SOUND}{NO_CLICK}晋级更多的关数，就能获得更多
+的植物，游戏中将出现更多种类
+的僵尸！
 
 [CRAZY_DAVE_2100]
-Hey, check it out, you found a watering can!
+嘿，看看这个，你发现了一个洒
+水壶！
+
 [CRAZY_DAVE_2101]
-In honor of this
-occasion I present you: 
-Your very own Zen Garden!
+你赢得了这份至高的荣誉，现在
+我把禅境花园赠与你！
+
 [CRAZY_DAVE_2102]
-Hey, I'll even start you off with a couple of sprouts!
+嘿，我要送你两棵小芽来让你开
+始了！
+
 [CRAZY_DAVE_2103]
-Grow them to full-size, and they'll reward you nicely!
+把他们种成型，他们会好好的回
+报你的！
+
 [CRAZY_DAVE_2104]
-Have fun!
+祝你玩得愉快！
 
 [CRAZY_DAVE_2200]
-The zombies asked me to help them practice invading houses.
+僵尸们想要我帮他们练习入侵房
+子
+
 [CRAZY_DAVE_2201]
-I told them it'd be okay as long as no plants were harmed.
+我告诉他们，只要植物不被破坏
+，就没问题。
+
 [CRAZY_DAVE_2202]
-So, I put a bunch of cardboard cut-outs on your lawn.
+所以，我用硬纸板把你的草坪隔
+开了。
+
 [CRAZY_DAVE_2203]
-Have fun!
+祝你玩得愉快！
 
 [CRAZY_DAVE_2300]
-Uh oh, he's here.
+喔 喔，他在这里。
+
 [CRAZY_DAVE_2301]
-Better get ready.
+你最好做好准备。
+
 [CRAZY_DAVE_2302]
-It's gonna be one heckuva fight!
+这将会是一场大战役！
+
 [CRAZY_DAVE_2303]
-Listen, though, I know what his weakness is:
+听好，那么，我知道他的弱点是
+：
+
 [CRAZY_DAVE_2304]
-You have to hit him in the pancreas!
+你必须攻击他的胰腺！
+
 [CRAZY_DAVE_2305]
-No, that was a different guy...
+噢，不，那是不同的一只……
+
 [CRAZY_DAVE_2306]
-You have to... um... kick him in the...
+你必须……呃……踢他的……
+
 [CRAZY_DAVE_2307]
-Hmm...
+唔……
+
 [CRAZY_DAVE_2308]
-You have to press up up down down left right...
+ 你必须按 上上下下左右……
+
 [CRAZY_DAVE_2309]
-er...
+呃……
+
 [CRAZY_DAVE_2310]
-Wait, I remember! It's... {MOUTH_SMALL_OH}
+等等，我想起来了！它是……{MOUTH_SMALL_OH}
 
 [CRAZY_DAVE_2400]
-Greetings, neighbor!
+你好，我的邻居！
+
 [CRAZY_DAVE_2401]
-The name's Crazy Dave.
+我的名字叫疯狂的戴夫。
+
 [CRAZY_DAVE_2402]
-But you can just call me Crazy Dave.
+但你叫我疯狂的戴夫就行了。
+
 [CRAZY_DAVE_2403]
-Listen, I've got a surprise for you.
+听好，我有个惊喜要给你。
+
 [CRAZY_DAVE_2404]
-But first, I'll need you to clear your lawn.
+但是首先，你必须清理下你的草
+坪。
+
 [CRAZY_DAVE_2405]
-Use your shovel and dig up those plants!
+用你的铲子挖出那些植物！
+
 [CRAZY_DAVE_2406]
-LET THE DIGGING COMMENCE!{MOUTH_SMALL_OH} {SCREAM}
+开始挖吧！{MOUTH_SMALL_OH} {SCREAM}
 
 [CRAZY_DAVE_2410]
-Ok goody, now for the surprise...
+好的，干得不错，现在给你个惊
+喜……
+
 [CRAZY_DAVE_2411]
-We're going BOWLING!{MOUTH_SMALL_SMILE}
-[CRAZY_DAVE_2412]
-{SHOW_WALLNUT}HERE, TAKE THIS WALL-NUT!!
+我们去玩保龄球！{MOUTH_SMALL_SMILE}
+
+[CRAZY_DAVE_2412] {SHOW_WALLNUT}
+嘿，拿好这个坚果墙！
+
 [CRAZY_DAVE_2413]
-Why'd I put a wall-nut in your hand?{MOUTH_SMALL_OH}
-[CRAZY_DAVE_2414]
-{SHAKE}Because I'm CRAAAZY!!!!!{MOUTH_BIG_SMILE}
+为什么我要给你坚果墙？{MOUTH_SMALL_OH}
+
+[CRAZY_DAVE_2414] {SHAKE}
+因为我发~~~疯了！！！！！{MOUTH_BIG_SMILE}
+
 [CRAZY_DAVE_2415]
-NOW GO! BOWL ME A WINNER!{MOUTH_BIG_SMILE} {SCREAM}
+现在出发！给我赢个冠军回来！{MOUTH_BIG_SMILE}
+ {SCREAM}
 
 [CRAZY_DAVE_2500]
-Me and my buddy Harvey Flaxcaster used to break vases when we were bored.
+我和我的哥们，弗莱科斯卡斯特
+?哈维，以前在无聊的时候就打
+花瓶。
+
 [CRAZY_DAVE_2501]
-Well Harvey's outta town, so you're coming with me, Harvey #2!
+那么哈维不在镇上，正好你来和
+我一起吧，哈维二号！
+
 [CRAZY_DAVE_2502]
-BREAK IT LIKE YOU MEAN IT, HARVEY! {SCREAM}
+就按照你的意愿去打破它吧，哈
+维！ {SCREAM}
 
 [CRAZY_DAVE_2600]
-Hey, welcome to the Zen Garden section of my shop!
+嘿，欢迎来到禅境花园，这里是
+我商店的禅境花园区。
+
 [CRAZY_DAVE_2601]
-{SHOW_FERTILIZER}I'll give you some fertilizer for stopping by!
+{SHOW_FERTILIZER}我会顺便给你一些化肥的！
+
 [CRAZY_DAVE_2602]
-Take a look around and see if there's anything else you like!
+看看周围，有没有什么你喜欢的
+东西！
 
 [CRAZY_DAVE_2700]
-Man, you broke those vases nice and good!
+哥们，你把这些花瓶都打破了，
+干得漂亮！
+
 [CRAZY_DAVE_2701]
-Broke 'em like the time I broke my back digging through those trash cans!
+用那些垃圾罐，像我砸我后面的
+铲子时，砸他们吧！
+
 [CRAZY_DAVE_2702]
-Here, I brought you some more vases.
+来，我会给你更多花瓶的。
+
 [CRAZY_DAVE_2703]
-Gotta be careful about breaking them too fast, though.
+小心点，别砸的太快了。
+
 [CRAZY_DAVE_2704]
-You don't wanna end up with more zombies than you can handle, huh huh.
+僵尸的数量太多了，你处理不了
+这么多的，哈哈。
 
 [CRAZY_DAVE_2800]
-All right!
+不错！
+
 [CRAZY_DAVE_2801]
-This should be the last of 'em.
+这应该他们最后一波了。
+
 [CRAZY_DAVE_2802]
-Break these, and you'll be all done!
+把他们砸掉，然后你的工作就完
+成了！
 
 [CRAZY_DAVE_3000]
-This here is Vasebreaker.
+这就是破罐者。
+
 [CRAZY_DAVE_3001]
-Some of these levels are really difficult.
+有些关卡真的很难。
+
 [CRAZY_DAVE_3002]
-Good luck!
+祝你好运！
 
 [CRAZY_DAVE_3100]
-Hey neighbor! Got some new items for sale!
+嘿，我的邻居！我有一些新东西
+出售啦！
 
 [CRAZY_DAVE_3200]
-{SHOW_TREE_FOOD}Hey {PLAYER_NAME}! This here is your Tree of Wisdom! I brought you some tree food to get you started.
+{SHOW_TREE_FOOD}嘿 {PLAYER_NAME}！这里是你的智慧树！我会
+给你一些肥料让你开始的。
 
 [CRAZY_DAVE_3300]
-{TIME_275}End of the line, buddy!{DELAY_50}
+{TIME_275}路的尽头，伙计！{DELAY_50}
+
 [CRAZY_DAVE_3301]
-{TIME_275}Yup, you knew this talk was coming.{DELAY_50}
+{TIME_275}啊，你知道这个对话要来了。{DELAY_50}
+
 [CRAZY_DAVE_3302]
-{TIME_325}You wanna go further? You gotta get the FULL VERSION.{DELAY_50}
+{TIME_325} 想要玩到更多？你应该去弄一
+套完整版游戏。{DELAY_50}
+
 [CRAZY_DAVE_3303]
-{TIME_275}Ok, I'll level with ya, sassafras...{DELAY_50}
+{TIME_275}是的，我将要跟……树根一个高
+度了……{DELAY_50}
+
 [CRAZY_DAVE_3304]
-{TIME_325}If you get the FULL VERSION, I'll give you more PLANTS!{DELAY_25}
+{TIME_325}如果你弄一套完整版游戏，我会
+给你更多植物！{DELAY_25}
+
 [CRAZY_DAVE_3305]
-{TIME_175}{SCREAM}{HANDING}LIKE THIS ONE!{DELAY_50}
+{TIME_175}{SCREAM}{HANDING}像这个！{DELAY_50}
+
 [CRAZY_DAVE_3306]
-{TIME_175}{SCREAM}{HANDING}AND THIS ONE!{DELAY_50}
+{TIME_175}{SCREAM}{HANDING}还有这个！{DELAY_50}
+
 [CRAZY_DAVE_3307]
-{TIME_275}{HANDING}and later on, I'll even throw in THIS ONE!{DELAY_50}
+{TIME_275}{HANDING}过会儿，我还会添加这个！{DELAY_50}
+
 [CRAZY_DAVE_3308]
-{TIME_125}{SHORT_SOUND}{HANDING}Why?{DELAY_50}
+{TIME_125}{SHORT_SOUND}{HANDING}为什么？{DELAY_50}
+
 [CRAZY_DAVE_3309]
-{TIME_225}{SHAKE}Because I'm CRAAAZY!!!!!{MOUTH_BIG_SMILE}{DELAY_150}
+{TIME_225}{SHAKE}因为我很疯-狂-！！！！{MOUTH_BIG_SMILE}{DELAY_150}
+
 [CRAZY_DAVE_3310]
-{TIME_150}And hey...{DELAY_50}
+{TIME_150}而且嘿……{DELAY_50}
+
 [CRAZY_DAVE_3311]
-{TIME_175}You want action?{DELAY_50}
+{TIME_175}你想采取行动？{DELAY_50}
+
 [CRAZY_DAVE_3312]
-{TIME_200}{SCREAM}I'LL GIVE YOU ACTION!{DELAY_300}
+{TIME_200}{SCREAM}我要给你更多战斗！{DELAY_300}
+
 [CRAZY_DAVE_3313]
-{TIME_300}{SCREAM2}25 MORE LEVELS OF ACTION!{DELAY_300}
+{TIME_300}{SCREAM2}更多的25级的战斗！{DELAY_300}
+
 [CRAZY_DAVE_3314]
-{TIME_300}{SCREAM}40 MINI-GAMES & PUZZLES!{DELAY_50}
+{TIME_300}{SCREAM}40个迷你游戏&谜题！{DELAY_50}
+
 [CRAZY_DAVE_3315]
-{TIME_200}TERRA COTTA!!!{DELAY_100}
+{TIME_200}大地科塔！！！{DELAY_100}
+
 [CRAZY_DAVE_3316]
-{TIME_300}{SCREAM2}IT'S ENOUGH TO BLOW YOUR MIND TO MARS AND BACK!!{DELAY_300}
+{TIME_300}{SCREAM2}这足够把你的脑子吹到火星，再
+吹回来！{DELAY_300}
+
 [CRAZY_DAVE_3317]
-{TIME_150}Well, what are you waiting for?
+{TIME_150}呃，你还等什么呢？
 
 [CRAZY_DAVE_3400]
-{NO_CLICK}To use Wall-nut First Aid, simply plant a fresh new Wall-nut over the damaged one!
+{NO_CLICK}想让坚果墙得到急救， 很简单
+，种一个新坚果墙覆盖已受伤的
+！
 
 [MENU_BUTTON]
-Menu
+菜单
 
 [ADVICE_MORE_ZOMBIES]
-More zombies approaching!
+ 更多的僵尸要来了！
 
 [ADVICE_MORE_SCARY_POTS]
-More vases incoming!
-Current Streak: {STREAK}
+更多的花瓶要来了！
+目前一系列： {STREAK}
 
 [ADVICE_SCARY_POTTER_TUTORIAL]
-TEMP - Dave put more vases on your lawn!
-{STREAK} of 5 waves cleared
+临时工- 戴夫，在草坪上放了更多的瓶子！
+{STREAK} 在五波攻势结束后
 
 [ADVICE_3_IN_A_ROW]
-More vases incoming!
-{STREAK} of 3 waves cleared
+更多的瓶子来了!
+{STREAK}在三波攻势结束后
 
 [LONGEST_STREAK]
-Longest
-Streak: {STREAK}
+最长连胜： {STREAK}
 
 [ADVICE_MORE_IZOMBIE]
-Good job!
-Current Streak: {STREAK}
+干得好！
+目前连胜： {STREAK}
 
 [ADVICE_CLICK_ON_SUN]
-Click on the falling sun to collect it!
+点击收集掉落的阳光！
 
 [ADVICE_GRAVEBUSTERS_ON_GRAVES]
-Grave busters can only be planted on graves
+墓碑吞噬者只能种在墓碑上
 
 [ADVICE_LILYPAD_ON_WATER]
-Lily pads can only be planted in water
+睡莲只能种在水里
 
 [ADVICE_TANGLEKELP_ON_WATER]
-Tangle kelp can only be planted in water
+缠绕水草只能种在水里
 
 [ADVICE_SEASHROOM_ON_WATER]
-Sea-shrooms can only be planted in water
+海蘑菇只能种在水里
 
 [ADVICE_POTATO_MINE_ON_LILY]
-Potato mines can't be planted on lily pads
+土豆类不能种在睡莲上
 
 [ADVICE_NOT_PASSED_LINE]
-Place your wall-nut to the left of the bowling line
+在红线的左边才能放坚果墙
 
 [ADVICE_I_ZOMBIE_NOT_PASSED_LINE]
-Place the zombie on the right side of the line
+把僵尸放在线的右边
 
 [ADVICE_I_ZOMBIE_LEFT_OF_LINE]
-Place the bungee zombie on the left side of the line
+把蹦极僵尸放在线的左边
 
 [ADVICE_ONLY_ON_REPEATERS]
-Can only be planted on repeaters
+只能种在双发射手上
 
 [ADVICE_ONLY_ON_MELONPULT]
-Can only be planted on melon-pults
+只能种在西瓜投手上
 
 [ADVICE_ONLY_ON_SUNFLOWER]
-Can only be planted on sunflowers
+只能种在向日葵上
 
 [ADVICE_ONLY_ON_SPIKEWEED]
-Can only be planted on spikeweeds
+只能种在地刺上
 
 [ADVICE_ONLY_ON_KERNELPULT]
-Can only be planted on a pair of kernel-pults
+只能种在一对玉米投手上
 
 [ADVICE_ONLY_ON_MAGNETSHROOM]
-Can only be planted on magnet-shrooms
+只能种在磁力菇上
 
 [ADVICE_ONLY_ON_FUMESHROOM]
-Can only be planted on fume-shrooms
+只能种在大喷菇上
 
 [ADVICE_ONLY_ON_LILYPAD]
-Can only be planted on lily pads
+只能种在睡莲上
 
 [ADVICE_WRONG_ART_TYPE]
-You can only plant {SEED} seeds there
+你把{SEED}的种子种在那里
 
 [ADVICE_PLANT_NEED_POT1]
-You can only plant in flower pots
-					 
+你只能种在花盆里
+
 [ADVICE_PLANT_NEED_POT2]
-Plant a flower pot first
+请先种花盆
 
 [ADVICE_PLANT_NOT_ON_GRAVE]
-You can't plant on graves
+你不能把植物种在墓碑上
 
 [ADVICE_PLANT_NOT_ON_CRATER]
-You can't plant on craters
+你不能把植物种在弹坑里
 
 [ADVICE_CANT_PLANT_THERE]
-You can't plant there
+你不能种在那里
 
 [ADVICE_PLANT_NOT_ON_WATER]
-Plant a lily pad first
+请先种睡莲
 
 [ADVICE_PLANTING_NEED_SLEEPING]
-Coffee beans can only be planted on sleeping mushrooms
+咖啡豆只能种在睡觉中的蘑菇上
 
 [ADVICE_PLANTING_NEEDS_GROUND]
-Spikeweeds can only be planted on solid ground
+地刺只能种在坚固的地面上
 
 [ADVICE_MORE_SUNFLOWERS]
-The more sunflowers you have,
-the faster you can grow plants!
+向日葵越多，你种植物的速度越快！
 
 [ADVICE_SHOVEL_REFRESH]
-The shovel needs time to refresh before digging again
+铲子仍在冷却中
 
 [ADVICE_HUGE_WAVE]
-A HUGE WAVE OF ZOMBIES IS APPROACHING!
+
 
 [ADVICE_CLICK_PEASHOOTER]
-Click on the peashooter to plant another one!
+点击豌豆射手，再种一颗！
 
 [ADVICE_PLANT_SUNFLOWER1]
-Sunflowers are an extremely important plant!
+向日葵是极其重要的植物！
 
 [ADVICE_PLANT_SUNFLOWER2]
-Try to plant at least 3 of them!
+请至少种下三棵向日葵！
 
 [ADVICE_PLANT_SUNFLOWER3]
-Planting at least 3 sunflowers improves your
-chances of surviving a zombie attack!
+至少种下三棵向日葵，来提高你在僵尸进攻下的生存率！
 
 [ADVICE_PLANT_SUNFLOWER4]
-Try to plant at least 3 sunflowers!
+请至少种下三棵向日葵！
 
 [ADVICE_PLANT_SUNFLOWER5]
-Planting sunflowers will improve your chances 
-of surviving the zombie attack!
+种植向日葵，提高你在僵尸进攻下的生存几率！
 
 [ADVICE_CLICK_SEED_PACKET]
-Click on a seed packet to pick it up!
+点击拾取种子包！
 
 [ADVICE_ENOUGH_SUN]
-Excellent! You've collected
-enough for your next plant!
+太棒了！你已为种一棵植物收集得够多了！
 
 [ADVICE_CLICK_ON_GRASS]
-Click on the grass to plant your seed!
+点击草地种下你的种子！
 
 [ADVICE_PLANTED_PEASHOOTER]
-Nicely done!
+干得漂亮！
 
 [ADVICE_ZOMBIE_ONSLAUGHT]
-Don't let the zombies reach your house!
+别让僵尸靠近你的房子！
 
 [ADVICE_CLICK_SHOVEL]
-Click on the shovel to pick it up!
+点击拾取铲子！
 
 [ADVICE_CLICK_PLANT]
-Click on a plant to remove it!
+点击移除一颗植物！
 
 [ADVICE_KEEP_DIGGING]
-Keep digging until your lawn is clear of plants!
+一直挖吧，直到你的草坪上没有植物！
 
 [ADVICE_SURVIVE_FLAGS]
-Can you survive for {FLAGS} flags?
+你能坚持到第{FLAGS}波攻击吗？
 
 [ADVICE_SURVIVE_ENDLESS]
-How many flags can you survive?
+你能顶住几波攻击？
 
 [ADVICE_FILL_IN_WALLNUTS]
-Fill in all the outlined spaces with wall-nuts!
+用坚果墙填满所有的外线区域！
 
 [ADVICE_FILL_IN_SPACES]
-Fill in all the outlined spaces!
+把外线区域填满！
 
 [ADVICE_FILL_IN_STARFRUIT]
-Fill in all the outlined spaces with starfruit!
+用杨桃填满外线区域！
 
 [ADVICE_BEGHOULED_DRAG_TO_MATCH_3]
-Click-and-drag plants to make matches of 3
+点击并拖拽来使3个相同植物配对
 
 [ADVICE_BEGHOULED_TWIST_TO_MATCH_3]
-Click to twist plants to make matches of 3
+点击并扭转来使3个相同植物配对
 
 [ADVICE_BEGHOULED_MATCH_3]
-Make {SCORE} matches to pass the level
+完成 {SCORE} 次配对以完成关卡
 
 [ADVICE_BEGHOULED_NO_MOVES]
-No possible moves!
+没有配对的植物了！
 
 [ADVICE_BEGHOULED_USE_CRATER_1]
-The zombies ate one of your plants!
+僵尸们吃掉了你的一株植物！
 
 [ADVICE_BEGHOULED_USE_CRATER_2]
-Spend some sun to fill in the crater!
+花点阳光来填平地上的弹坑！
 
 [ADVICE_BEGHOULED_SAVE_SUN]
-Save up sun to upgrade your plants!
+储存太阳来升级你的植物们！
 
 [ADVICE_SLOT_MACHINE_PULL]
-Pull handle for new seeds!
+拉动把手就有新的种子！
 
 [ADVICE_SLOT_MACHINE_SPIN_AGAIN]
-Spin Again!
+再拉一次！
 
 [ADVICE_SLOT_MACHINE_COLLECT_SUN]
-Get {SCORE} sun to pass the level
+收集{SCORE}点阳光即可过关
 
 [SLOT_MACHINE_PULL_TOOLTIP]
-Costs 25 sun for pull
+花费25点阳光拉动拉霸
 
 [ADVICE_SLOT_MACHINE_3_OF_A_KIND]
-Three of a kind! 3 free plants!
+3个同一种植物！3株免费的植物！
 
 [ADVICE_SLOT_MACHINE_2_OF_A_KIND]
-Two of a kind! Free plant!
+2个相同图案！免费植物送上！
 
 [ADVICE_SLOT_MACHINE_2_SUNS]
-Two of a kind! Bonus sun!
+2个相同图案！奖励阳光！
 
 [ADVICE_SLOT_MACHINE_2_DIAMONDS]
-Two of a kind! Diamonds!
+两个相同图案！钻石！
 
 [ADVICE_SLOT_MACHINE_SUN_JACKPOT]
-Sun Jackpot!
+阳光头等奖！
 
 [ADVICE_SLOT_MACHINE_DIAMOND_JACKPOT]
-Diamond Jackpot!
+钻石头等奖！
 
 [SLOT_MACHINE_SUN_TOOLTIP]
-Sun
+太阳
 
 [SLOT_MACHINE_DIAMOND_TOOLTIP]
-Diamond
+钻石
 
 [ADVICE_BUNGEES_INCOMING]
-Bungees incoming!!!
+蹦极僵尸来啦！
 
 [ADVICE_CLICKED_ON_SUN]
-Keep on collecting sun!
-You'll need it to grow more plants!
+继续收集阳光！你需要他们来种下更多的植物！
 
 [ADVICE_CLICKED_ON_COIN]
-Save up money to purchase cool stuff!
+存钱来买更酷的道具吧！
 
 [ADVICE_SEED_REFRESH]
-Seeds need time to refresh before planting again
+再次种下种子需要时间冷却
 
 [ADVICE_CANT_AFFORD_PLANT]
-You need more sun to do that!
+你需要更多的阳光才能那样做！
 
 [ADVICE_PLANT_NEEDS_REPEATER]
-Plant a repeater first!
+请先种下双发射手！
 
 [ADVICE_PLANT_NEEDS_MELONPULT]
-Plant a winter melon first!
+请先种下“冰”瓜！
 
 [ADVICE_PLANT_NEEDS_SUNFLOWER]
-Plant a sunflower first!
+请先种下向日葵！
 
 [ADVICE_PLANT_NEEDS_SPIKEWEED]
-Plant a spikeweed first!
+请先种下地刺！
 
 [ADVICE_PLANT_NEEDS_KERNELPULT]
-Plant a pair of kernel-pults first!
+请先种下一对玉米投手！
 
 [ADVICE_PLANT_NEEDS_MAGNETSHROOM]
-Plant a magnet-shroom first!
+请先种植一株磁力菇！
 
 [ADVICE_PLANT_NEEDS_FUMESHROOM]
-Plant a fume-shroom first!
+请先种植一株大喷菇！
 
 [ADVICE_PLANT_NEEDS_LILYPAD]
-Plant a lily pad first!
+请先种植一株睡莲！
 
 [PLAYERS_HOUSE]
-{PLAYER}'s House
+{PLAYER}的房子
 
 [PLAYERS_BACKYARD]
-{PLAYER}'s Backyard
+{PLAYER}的后院
 
 [PLAYERS_ROOF]
-{PLAYER}'s Roof!
+{PLAYER}的屋顶
 
 [ADVICE_PORTAL_RELOCATING]
-Portal Relocating...
+传送门重置中...
 
 [ZEN_SELL_HEADER]
-Are you sure?
+确定？
 
 [ZEN_SELL_LINES]
-Sell this plant to Crazy Dave?
+把这株植物卖给疯狂戴夫？
 
 [DIALOG_WARNING]
-Warning
+警告
 
 [DIALOG_ZEN_GARDEN_FULL]
-Oh no! Your garden is too full!
+噢，不好！你的花园太拥挤了！
 
 [DIALOG_BUTTON_OK]
-OK
+确定
 
 [DIALOG_BUTTON_CANCEL]
-CANCEL
+取消
 
 [DIALOG_BUTTON_YES]
-YES
+是
 
 [DIALOG_BUTTON_NO]
-NO
+否
 
 [NEW_PLANT]
-YOU GOT A NEW PLANT!
+你得到一株新植物！
 
 [NEXT_LEVEL_BUTTON]
-NEXT LEVEL!
+下一关！
 
 [CONTINUE_BUTTON]
-Continue
+继续
 
 [VIEW_ALMANAC_BUTTON]
-View Almanac
+查看图鉴
 
 [MAIN_MENU_BUTTON]
-Main Menu
+主菜单
 
 [AWARD_MAIN_MENU_BUTTON]
-MAIN MENU
+主菜单
 
 [REPICK_BUTTON]
-Re-pick
+重选
 
 [SHOVEL]
-Shovel
+铁铲
 
 [GOT_SHOVEL]
-You got the shovel!
+你得到一把铁铲！
 
 [SHOVEL_DESCRIPTION]
-Lets you dig up a plant
-to make room for
-another plant
+让你挖出一株植物，腾出空间给其他植物
 
 [FOUND_NOTE]
-You found a note:
+你发现了张便签：
 
 [SUBURBAN_ALMANAC]
-Suburban Almanac
+郊区图鉴
 
 [FOUND_SUBURBAN_ALMANAC]
-You found a suburban almanac!
+ 你发现了张郊区图鉴！
 
 [SUBURBAN_ALMANAC_DESCRIPTION]
-Keeps track of all plants and zombies you encounter
+记载所有你遇到的植物和僵尸
 
 [KEYS]
-Crazy Dave's Car Key
+疯狂戴夫的车钥匙
 
 [FOUND_KEYS]
-You found Crazy Dave's car key!
+你发现了疯狂戴夫的车钥匙！
 
 [KEYS_DESCRIPTION]
-Now you can visit
-Crazy Dave's shop!
+现在你可以访问疯狂戴夫的商店！
 
 [VASE]
-Mysterious Vase
+神秘花瓶
 
 [FOUND_VASE]
-You found a Mysterious Vase!
+你发现了个神秘花瓶！
 
 [VASE_DESCRIPTION]
-Now you can play
-Vasebreaker Mode!
+现在你可以玩“砸花瓶模式”！
 
 [WATERING_CAN]
-Watering Can
+水罐
 
 [FOUND_WATERING_CAN]
-You found a watering can!
+你发现了个水罐！
 
 [WATERING_CAN_DESCRIPTION]
-Now you can play
-Zen Garden Mode!
+现在你可以玩“禅境花园模式”！
 
 [TACO]
-Taco
+玉米卷
 
 [FOUND_TACO]
-You found a taco!
+你发现了一个玉米卷！
 
 [TACO_DESCRIPTION]
-What are you going to do with a taco?
+你准备拿这个玉米卷做什么呢？
 
 [WATERING_CAN_TOOLTIP]
-water a plant
+浇水
 
 [FERTILIZER_TOOLTIP]
-fertilize a plant
+施肥
 
 [TREE_FERTILIZER_TOOLTIP]
-give tree food
+给树施肥
 
 [BUG_SPRAY_TOOLTIP]
-bug spray
+杀虫剂
 
 [PHONOGRAPH_TOOLTIP]
-play music for a plant
+放音乐
 
 [CHOCOLATE_TOOLTIP]
-chocolate
+巧克力
 
 [GLOVE_TOOLTIP]
-move a plant
+移动植物
 
 [MONEY_SIGN_TOOLTIP]
-sell a plant
+卖花
 
 [WHEELBARROW_TOOLTIP]
-holds plant for transporting
+运送植物
 
 [NEXT_GARDEN_TOOLTIP]
-visit other garden
+造访另一个花园
 
 [SHOVEL_TOOLTIP]
-remove a plant
+挪走植物
 
 [BEGHOULED_REPEATER_UPGRADE_TOOLTIP]
-Upgrade all your peashooters to repeaters
+将所有的豌豆射手升为双发射手
 
 [BEGHOULED_FUMESHROOM_UPGRADE_TOOLTIP]
-Upgrade all your puff-shrooms to fume-shrooms
+将所有的小喷菇升为大喷菇
 
 [BEGHOULED_TALLNUT_UPGRADE_TOOLTIP]
-Upgrade all your wall-nuts to tall-nuts
+将所有的坚果墙升为高坚果
 
 [BEGHOULED_SHUFFLE_TOOLTIP]
-Shuffle plants
+拖拽植物
 
 [BEGHOULED_CRATER_TOOLTIP]
-Refill crater
+填补土坑
 
 [BEGHOULED_SEED_ALREADY_PURCHASED]
-Purchased
+已经购买
 
 [BEGHOULED_NO_CRATERS]
-No craters to fill
+没有土坑可以填补
 
 [FREE_PLANTING_CHEAT]
-Free Planting Cheat
+作弊：自由种植
 
 [WAITING_FOR_SEED]
-recharging...
+重新装填中...
 
 [NOT_ENOUGH_SUN]
-not enough sun
+没有足够的阳光
 
 [REQUIRES_REPEATER]
-requires repeater
+需要双发射手
 
 [REQUIRES_MELONPULT]
-requires melon-pult
+需要西瓜投手
 
 [REQUIRES_SUNFLOWER]
-requires sunflower
+需要向日葵
 
 [REQUIRES_SPIKEWEED]
-requires spikeweed
+需要地刺
 
 [REQUIRES_KERNELPULTS]
-requires 2 kernel-pults
+需要一对玉米投手
 
 [REQUIRES_MAGNETSHROOM]
-requires magnet-shroom
+需要磁力菇
 
 [REQUIRES_FUMESHROOM]
-requires fume-shroom
+需要大喷菇
 
 [REQUIRES_LILY_PAD]
-requires lily pad
+需要睡莲
 
 [WAITING_TO_REFRESH]
-waiting to refresh
+冷却中
 
 [CLICK_TO_VIEW]
-click to view
+点击查看
 
 [LETS_ROCK_BUTTON]
-LET'S ROCK!
+一起摇滚吧！
 
 [VIEW_LAWN]
-VIEW LAWN
+查看草坪
 
 [ALMANAC_BUTTON]
-ALMANAC
+图鉴
 
 [SHOP_BUTTON]
-SHOP
+商店
 
 [CLOSE_BUTTON]
-CLOSE
+关闭
 
 [ALMANAC_INDEX]
-ALMANAC INDEX
+图鉴索引
 
 [VIEW_PLANTS]
-View Plants
+查看植物
 
 [VIEW_ZOMBIES]
-View Zombies
+查看僵尸
 
 [BACK_TO_MENU]
-Back to Menu
+返回菜单
 
 [ROLL_CREDITS]
-Roll Credits!
+播放制作名单
 
 [PAGE_X]
-PAGE {PAGE}
+第 {PAGE} 页
 
 [RESTART_BUTTON]
-Restart
+重新开始
 
 [NEW_GAME_BUTTON]
-New Game
+新的游戏
 
 [LEAVE_BUTTON]
-LEAVE
+离开
 
 [QUIT_BUTTON]
-Quit
+退出游戏
 
 [QUIT_MESSAGE]
-Are you sure you wish to 
-quit the game?
+确定要退出游戏吗？
 
 [QUIT_HEADER]
-Quit
+退出
 
 [AWW_YEAH_BUTTON]
-AWW YEAH!
+噢耶！
 
 [NAH_BUTTON]
-NAH!
+呐！
 
 [MORE_SEEDS_HEADER]
-More seeds?
+更多种子？
 
 [MORE_SEEDS_BODY]
-Would you like to be able to plant more kinds of seeds?
+你想要种更多种类的种子吗？
 
 [STORE_NEXT_LEVEL_BUTTON]
-NEXT LEVEL
+下一关
 
 [STORE_MAIN_MENU_BUTTON]
-MAIN MENU
+主菜单
 
 [STORE_BACK_TO_GAME]
-GO BACK
+返回
 
 [STORE_BACK_TO_ZEN]
-BACK
+返回
 
 [SEED_CHOOSER_UPGRADE_WARNING]
-Are you sure you want to use the {UPGRADE_TO} without the {UPGRADE_FROM}?
+你确定想要在没有{UPGRADE_FROM}的情况下使用{UPGRADE_TO} ？
 
 [SEED_CHOOSER_SEEING_STARS_WARNING]
-Are you sure you want to play this level without starfruit?
+你确定这关不使用杨桃吗？
 
 [SEED_CHOOSER_LILY_WARNING]
-Are you sure you want to play this level without lily pads?
+你确定这关不使用睡莲吗？
 
 [SEED_CHOOSER_ART_WALLNUT_WARNING]
-Are you sure you want to play this level without wall-nuts?
+你确定这关不使用坚果墙吗？
 
 [SEED_CHOOSER_ART_2_WARNING]
-Are you sure you want to play this level without starfruit, umbrella leaf, and wall-nut seeds??
+你确定这关不使用杨桃，叶子保护伞和坚果墙？？
 
 [SEED_CHOOSER_FLYER_WARNING]
-You haven't chosen any plants that fight off balloon zombies, are you sure you want to continue?
+你没有选能干掉气球僵尸的植物，确定要继续吗？
 
 [SEED_CHOOSER_SUN_WARNING]
-You haven't chosen any sun producing plants, are you sure you want to continue?
+你没有选能生产阳光的植物，确定要继续吗？
 
 [SEED_CHOOSER_NIGHT_SUN_WARNING]
-Now that it's nighttime, you need sunflowers more than ever. Are you sure you want to play the level without them?
+现在是晚上，你会比白天需要更多的向日葵。确定这关不使用向日葵吗？
 
 [SEED_CHOOSER_PUFFSHROOM_WARNING]
-This level will be extremely difficult without puff-shrooms. Are you sure you wish to continue without them?
+这关如果没有小喷菇将会非常的难。你确定这关不使用小喷菇吗？
 
 [SEED_CHOOSER_POOL_WARNING]
-Are you sure want to play this level without any water plants?
+你确定这关不使用任何水生植物吗？
 
 [SEED_CHOOSER_ROOF_WARNING]
-Are you sure want to play this level without flower pots?
+你确定这关不使用花盆吗？
 
 [ADVICE_ALMOST_THERE]
-Almost there!
+就要成功了！
 
 [ADVICE_BEGHOULED_ALMOST_THERE]
-5 matches to go!
+再完成5组配对！
 
 [ZOMBIQUARIUM_SNORKEL_TOOLTIP]
-Buy Snorkel Zombie
+购买潜水僵尸
 
 [ZOMBIQUARIUM_TROPHY_TOOLTIP]
-Buy Trophy
+购买奖杯
 
 [ADVICE_ZOMBIQUARIUM_CLICK_TO_FEED]
-Click on tank to feed zombies
+点击鱼缸给僵尸喂食
 
 [ADVICE_ZOMBIQUARIUM_COLLECT_SUN]
-Get {SCORE} sun to pass the level
+需要得到{SCORE}点阳光才能通过这关
 
 [ZOMBIQUARIUM_DEATH_MESSAGE]
-All your pet zombies have perished!
+你的宠物僵尸已经全部死亡了！
 
 [I_ZOMBIE_DEATH_MESSAGE]
-You lost all your zombies!
+你失去了所有的僵尸！
 
 [ADVICE_ZOMBIQUARIUM_CLICK_TROPHY]
-Click on the trophy to complete the level!
+点击战利品来完成关卡！
 
 [ADVICE_ZOMBIQUARIUM_BUY_SNORKEL]
-Click to buy more snorkel zombies!
+点击购买更多的潜水僵尸！
 
 [TRY_AGAIN]
-Try Again
+再次尝试
 
 [ONE_FLAG]
-1 flag
+1轮
 
 [COUNT_FLAGS]
-{COUNT} flags
+{COUNT}轮
 
 [SURVIVAL_DEATH_MESSAGE]
-You survived for {FLAGS}
-before dying a
-GRUESOME ZOMBIE DEATH!!!
+你存活了{FLAGS}，现在接受可怕的僵尸死亡吧！！！
 
 [ENDLESS_PUZZLE_DEATH_MESSAGE]
-You made it to a streak of {STREAK}
+你已经连续通过 {STREAK}关
 
 [ENDLESS_STREAK]
-Streak: {STREAK}
- 
+一系列： {STREAK}
+
 [LEVEL]
-Level
+关卡
 
 [GAME_OVER]
-GAME OVER
+游戏结束
 
 [PICK_AREA]
-Survival
+生存模式
 
 [PICK_CHALLENGE]
-Mini-Games
+迷你游戏
 
 [ONE_MORE_CHALLENGE_TOOLTIP]
-Complete 1 more mini-game to unlock
+完成更多的迷你游戏来解锁
+
+
+[ONE_MORE_CHALLENGE_TOOLTIP]
+再完成1个迷你他游戏来解锁
 
 [ONE_MORE_SCARY_POTTER_TOOLTIP]
-Earn 1 more vasebreaker trophy to unlock
+再打一次砸花瓶模式, 以战利品来解锁
 
 [ONE_MORE_IZOMBIE_TOOLTIP]
-Earn 1 more I, Zombie trophy to unlock
+再打一次我是僵尸模式, 以战利品来解锁
 
 [ONE_MORE_SURVIVAL_TOOLTIP]
-Earn 1 more survival trophy to unlock
+再打一次生存模式, 以战利品来解锁
 
 [10_SURVIVAL_TOOLTIP]
-Earn 10 survival trophies to unlock
+获得10个生存模式战利品来解锁
 
 [FINISH_ADVENTURE_TOOLTIP]
-Finish adventure mode to unlock
+完成冒险模式来解锁
 
 [SURVIVAL_DAY_NORMAL]
-Survival: Day
+生存模式：白天
 
 [SURVIVAL_NIGHT_NORMAL]
-Survival: Night
+生存模式：黑夜
 
 [SURVIVAL_POOL_NORMAL]
-Survival: Pool
+生存模式：泳池
 
 [SURVIVAL_FOG_NORMAL]
-Survival: Fog
+生存模式：浓雾
 
 [SURVIVAL_ROOF_NORMAL]
-Survival: Roof
+生存模式：屋顶
 
 [SURVIVAL_DAY_HARD]
-Survival: Day (Hard)
+生存模式：白天 (困难)
 
 [SURVIVAL_NIGHT_HARD]
-Survival: Night (Hard)
+生存模式：黑夜 (困难)
 
 [SURVIVAL_POOL_HARD]
-Survival: Pool (Hard)
+生存模式：泳池 (困难)
 
 [SURVIVAL_FOG_HARD]
-Survival: Fog (Hard)
+生存模式：浓雾 (困难)
 
 [SURVIVAL_ROOF_HARD]
-Survival: Roof (Hard)
+生存模式：屋顶 (困难)
 
 [SURVIVAL_DAY_ENDLESS]
-Survival: Day (Endless)
+生存模式：白天 (无尽的)
 
 [SURVIVAL_NIGHT_ENDLESS]
-Survival: Night (Endless)
-
+生存模式：黑夜 (无尽版)
+ 
 [SURVIVAL_POOL_ENDLESS]
-Survival: Endless
+生存模式：泳池 (无尽版)
 
 [SURVIVAL_FOG_ENDLESS]
-Survival: Fog (Endless)
+生存模式：浓雾 (无尽版)
 
 [SURVIVAL_ROOF_ENDLESS]
-Survival: Roof (Endless)
-
+生存模式：屋顶 (无尽版)
+ 
 [WAR_AND_PEAS]
-ZomBotany
+植物僵尸
 
 [SEEING_STARS]
-Seeing Stars
+看星星
 
 [CAN_YOU_DIG_IT]
-Can You Dig It?
+你能把 它 挖出来吗？
 
 [SCARY_POTTER_1]
-Vasebreaker
+破罐者
 
 [SCARY_POTTER_2]
-To the Left
+全部留下
 
 [SCARY_POTTER_3]
-Third Vase
+第3个罐子
 
 [SCARY_POTTER_4]
-Chain Reaction
+ 连锁反应
 
 [SCARY_POTTER_5]
-M is for Metal
+M的意思是金属
 
 [SCARY_POTTER_6]
-Scary Potter
+胆怯的制陶工
 
 [SCARY_POTTER_7]
-Hokey Pokey
+变戏法
 
 [SCARY_POTTER_8]
-Another Chain Reaction
+另一个连锁反应
 
 [SCARY_POTTER_9]
-Ace of Vase
+罐子王牌
 
 [SCARY_POTTER_10]
-Vasebreaker Facebreaker
+破罐者 破脸者
 
 [SCARY_POTTER_ENDLESS]
-Vasebreaker Endless
+无尽的试炼
 
 [SCARY_POTTER]
-Puzzle
+解谜模式
 
 [PORTAL_COMBAT]
-Portal Combat
+保护传送门
 
 [BEGHOULED]
-Beghouled
+宝石迷阵
 
 [BEGHOULED_TWIST]
-Beghouled Twist
+宝石迷阵转转看
 
 [WALL_NUT_BOWLING]
-Wall-nut Bowling
+坚果保龄球模式
 
 [GRAVE_DANGER]
-Grave Danger
+坟墓模式
 
 [I_ZOMBIE]
-I, Zombie
+我，僵尸
 
 [WHACK_A_ZOMBIE]
-Whack a Zombie
+捶僵尸
 
 [SLOT_MACHINE]
-Slot Machine
+老虎机
 
 [ZOMBIQUARIUM]
-Zombiquarium
+僵尸水族馆
 
 [LITTLE_TROUBLE]
-Big Trouble Little Zombie
+小僵尸大麻烦
 
 [BOBSLED_BONANZA]
-Bobsled Bonanza
+雪橇区
 
-[ITS_RAINING_SEEDS	]
-It's Raining Seeds	
+[ITS_RAINING_SEEDS ]
+雨中种植物
 
 [INVISIGHOUL]
-Invisi-ghoul
+隐形食脑者
 
 [DARK_STORMY_NIGHT]
-Dark Stormy Night
+黑暗的暴风雨夜
 
 [AIR_RAID]
-Air Raid
+空袭
 
 [COLUMN_AS_YOU_SEE_EM]
-Column Like You See 'Em
+你看， 他们像柱子一样
 
 [BUNGEE_BLITZ]
-Bungee Blitz
+蹦极闪电战
 
 [POGO_PARTY]
-Pogo Party
+跳跳舞会
 
 [FINAL_BOSS]
-Dr. Zomboss's Revenge
+僵王博士的复仇
 
 [LAST_STAND]
-Last Stand
+谁笑到最后
 
 [ART_CHALLENGE_WALL_NUT]
-Art Challenge Wall-nut
+坚果保龄球 艺术锦标赛
 
 [SUNNY_DAY]
-Sunny Day
+晴天
 
 [UNSODDED]
-Unsodded
+无草皮之地
 
 [BIG_TIME]
-Big Time
+重要时间
 
 [ART_CHALLENGE_SUNFLOWER]
-Art Challenge Sunflower
+挑战 种太阳花的艺术
 
 [ZOMBIES_ON_SPEED]
-Zombie Nimble Zombie Quick
+僵尸快跑
 
 [ICE_LEVEL]
-Ice Level
+冰冻关卡
 
 [ZEN_GARDEN]
-Zen Garden	
+禅境花园
 
 [HIGH_GRAVITY]
-High Gravity
+超乎寻常的压力
 
 [WAR_AND_PEAS_2]
-ZomBotany 2
+植物僵尸 2
 
 [I_ZOMBIE_TOO]
-I, Zombie 2
+我,僵尸 2
 
 [WALL_NUT_BOWLING_EXTREME]
-Wall-nut Bowling 2
+坚果保龄球 2
 
 [BEAT_GAME_MESSAGE1]
-You got the Gold Sunflower Trophy
+你获得了金向日葵作为战利品
 
 [BEAT_GAME_MESSAGE2]
-Wow! You got all the trophies! Now it's time to play more Endless Games! And don't forget to tend your Zen Garden!
+哇哦！你集齐了所有的道具！现在是时候挑战无尽的试炼了！还有别忘了时不时去一趟你的禅境花园浇浇花锄锄草！
 
 [GOLD_SUNFLOWER_TROPHY]
-Gold Sunflower Trophy
+金向日葵奖杯
 
 [SILVER_SUNFLOWER_TROPHY]
-Silver Sunflower Trophy
+银向日葵奖杯
 
 [WIN_MESSAGE1]
-You have defeated the Boss Zombie!
+你已经打败了僵尸之王
 
 [WIN_MESSAGE2]
-Congratulations!  You have most triumphantly fended off the zombie attack!  Your lawn is safe... for now!
+恭喜你！你在僵尸的攻势下维持住了最稳固的防御！你的草坪安全了……但只是暂时的！
 
 [GOT_TROPHY]
-You got a Trophy!
+ 你得到了一座奖杯！
 
 [TROPHY]
-Trophy
+奖杯
 
 [NOW_YOU_CAN_PLAY]
-Now you can play
-{MODE}!
+现在开始吧！ {MODE}！
 
 [CHALLENGE_UNLOCKED]
-You've unlocked a new mini-game!
+你已经解锁了一个新的迷你游戏！
 
 [GET_MORE_TROPHIES]
-Keep on collecting those trophies!
+继续努力得到更多的奖杯 
 
 [SUN]
-Sun
+太阳
 
 [MATCHES]
-Matches
+比赛
 
 [MODE_LOCKED]
-Locked!
+未解锁！
 
 [SURVIVAL_LOCKED_MESSAGE]
-Play more Adventure to 
-unlock Survival Mode.
+进行更多新冒险来解锁生存模式。
 
 [MINIGAME_LOCKED_MESSAGE]
-Play more Adventure to 
-unlock the Mini-games.
+进行更多新冒险来解锁迷你游戏。
 
 [PUZZLE_LOCKED_MESSAGE]
-Play more Adventure to 
-unlock Puzzle Mode.
+进行更多新冒险来解锁解谜模式。
 
 [CLICK_TO_START]
-CLICK TO START!
+点击开始
 
 [LOADING]
-LOADING...
+载入中……
 
 [CREDITS]
-Credits
+制作者名单
 
 [BACK_TO_GAME]
-Back To Game
+返回游戏
 
 [RESTART_LEVEL]
-Restart Level
+ 重新开始
 
 [ADVICE_ZEN_GARDEN_PICK_UP_WATER]
-Click on the watering can to pick it up!
+点击拾取水壶！
 
 [ADVICE_ZEN_GARDEN_WATER_PLANT]
-Click on a sprout to water it!	
+点击浇灌新芽！
 
 [ADVICE_ZEN_GARDEN_KEEP_WATERING]
-Keep watering your plants when they get thirsty!
+保持浇灌你的植物，别让他们渴着了！
 
 [ADVICE_ZEN_GARDEN_VISIT_STORE]
-Your plants need fertilizer to grow!
-Visit the shop to pick up some fertilizer!
+你的植物需要肥料才能生长，去商店买些肥料回来！
 
 [ADVICE_ZEN_GARDEN_FERTILIZE]
-Now fertilize your plants and watch them grow!
+给你的植物施肥然后看着他们茁壮成长吧！
 
 [ADVICE_ZEN_GARDEN_NEED_MORE_FERTILIZER]
-You need to fertilize both plants!
-Here, have some more fertilizer!
+你需要给全部植物施肥！在这儿，再买些植物吧！
 
 [ADVICE_ZEN_GARDEN_CONTINUE_ADVENTURE]
-That's all you can do for now!
-Check back later when your plants need more nurturing!
+这就是你现在所有能做的！当你的植物需要更多培养的时候记得回来看看！
 
 [CHOOSE_SEED_TO_COPY]
-Choose a Seed to Copy
+选择种子来复制
 
 [NOT_ALLOWED_ON_THIS_LEVEL]
-Not allowed on this level
+这关不允许
 
 [FULL_VERSION_ONLY]
-Full version only
+限完全版
 
 [GET_FULL_VERSION_BODY]
-Get the full version of this game 
-to use this awesome plant!
+集齐所有道具就能使用最具威慑力的植物！
 
 [GET_FULL_VERSION_TITLE]
-Full Version Only
+道具已收集完备！
 
 [BUY_PVZ_TITLE]
-Get Full Version
+去收集全部的道具吧！
 
 [BUY_PVZ_BODY]
-Would you like the purchase the full version?
+你想购买完整版吗？
 
 [GET_FULL_VERSION_YES_BUTTON]
-Get Full Version
+购买取得完全版 
 
 [GET_FULL_VERSION_NO_BUTTON]
-Maybe Later
+也许会晚一点
 
 [FULL_VERSION_TO_BUY]
-This item is only available in the 
-full version of the game!
+这个条目只有在获得了所有道具后才能开启！
 
 [CRAZY_DAVE_WANTS]
-Crazy Dave chose this
+疯狂戴夫的选择
 
 [NOCTURNAL_WARNING]
-Nocturnal - sleeps during day
+夜行性的——在白天会睡觉
 
 [NOT_RECOMMENDED_FOR_LEVEL]
-Not recommended for level
+不推荐在此关使用
 
 [CHOOSE_YOUR_PLANTS]
-CHOOSE YOUR PLANTS!
+选择你的植物
 
 [ADVICE_USE_SHOVEL_ON_POTS]
-Click on a vase to see what's inside!
+推荐在盆上使用铲子
 
 [ADVICE_DESTROY_POTS_TO_FINISH_LEVEL]
-Destroy all zombies and vases to finish the level!
+干掉所有僵尸和花瓶来完成关卡！
 
 [SUBURBAN_ALMANAC_INDEX]
-Suburban Almanac - Index
+ 图鉴——索引
 
 [SUBURBAN_ALMANAC_PLANTS]
-Suburban Almanac - Plants
+ 图鉴——植物
 
 [SUBURBAN_ALMANAC_ZOMBIES]
-Suburban Almanac - Zombies
+ 图鉴——僵尸
 
 [STORE_PAGE]
-Page {PAGE} of {NUM_PAGES}
+页{PAGE}的 {NUM_PAGES}
 
 [STORE_UPGRADE_SLOTS]
-{SLOTS}
-slots
+{SLOTS} 槽
 
 [ADVICE_I_ZOMBIE_EAT_ALL_BRAINS]
-Eat all the brains to pass the level!
+通过这关需要吃掉所有的大脑！
 
 [ADVICE_I_ZOMBIE_PLANTS_NOT_REAL]
-Do not be alarmed
-Plants are not real
+不要惊慌，植物不是真的植物
 
 [SQUIRRELS]
-Squirrels
+松鼠
 
 [ADVICE_SQUIRRELS_ONE_LEFT]
-{COUNT} more squirrel to go!
+{COUNT} 还有更多的松鼠！
 
 [ADVICE_SQUIRRELS_LEFT]
-{COUNT} more squirrels to go!
+{COUNT}还有更多的松鼠！
 
 [ADVICE_SQUIRREL_ZOMBIE]
-Oh no! Find all the squirrels before 
-the zombie makes it to your house!
+噢，不！在僵尸进你家前找到所有的松鼠！
 
 [BRAINS]
-Brains Eaten
+食脑
 
 [COST]
-Cost
+花费
 
 [WAIT_TIME]
-Recharge
+冷却时间
 
 [WAIT_TIME_SHORT]
-fast
+短
 
 [WAIT_TIME_LONG]
-slow
+长
 
 [WAIT_TIME_VERY_LONG]
-very slow
+非常长
 
 [ADVICE_PEASHOOTER_DIED]
-One of your peashooters died!
-Try planting them further to the left!
+你的一颗豌豆射手死亡了！把他们种在更靠左的地方！
 
 [ADVICE_FOUND_PLANT]
-You found a plant for your Zen Garden!
+你为你的禅境花园找到一颗新的植物！
 
 [ADVICE_FOUND_CHOCOLATE]
-You found some Chocolate!
-Feed it to Stinky to speed him up for a while!
+你找到了一些巧克力！蜗牛吃了之后将获得一段加速时间！
 
 [ADVICE_STINKY_SLEEPING]
-Stinky the Snail fell asleep! Click wake him up!
+臭臭蜗牛睡着了！点击叫醒它！
 
 [START_ONSLAUGHT]
-Start Onslaught
+展开攻击
 
 [CONTINUE_ONSLAUGHT]
-Continue Onslaught
+继续猛攻
 
 [LAST_STAND_DEATH_MESSAGE]
-You survived for {FLAGS}!!
+你活了下来，只用了{FLAGS}！！
 
 [SUCCESSFULLY_DEFENDED]
-Successfully defended {FLAGS}
+成功防御！ {FLAGS} 
 
 [FLAGS_COMPLETED]
-{FLAGS} completed
+{FLAGS}完成
 
 [I_ZOMBIE_1]
-I, Zombie
+我是僵尸！
 
 [I_ZOMBIE_2]
-I, Zombie Too
+我也是僵尸！
 
 [I_ZOMBIE_3]
-Can You Dig It?
+ 你能铲了它么？
 
 [I_ZOMBIE_4]
-Totally Nuts
+完全傻了
 
 [I_ZOMBIE_5]
-Dead Zeppelin
+死亡飞艇
 
 [I_ZOMBIE_6]
-Me Smash!
+ 我烂了！
 
 [I_ZOMBIE_7]
-ZomBoogie
+僵尸摇摆
 
 [I_ZOMBIE_8]
-Three Hit Wonder
+ 三连击
 
 [I_ZOMBIE_9]
-All your brainz r belong to us
+你所有大脑 都是属于我的
 
 [I_ZOMBIE_ENDLESS]
-I, Zombie Endless
+我是僵尸无尽版
 
 [UNLOCKED_I_ZOMBIE_LEVEL]
-You've unlocked a new
-I, Zombie level!
+你解锁了新的 我是僵尸关卡！
 
 [UNLOCKED_VASEBREAKER_LEVEL]
-You've unlocked a new
-Vasebreaker level!
+你解锁了新的砸花瓶关卡！
 
 [EARN_MORE_TROPHIES_FOR_ENDLESS_SURVIVAL]
-Earn more survival trophies to unlock the final survival mode
+获得更多的生存模式战利品来解锁最终的生存模式
 
 [YOU_UNLOCKED_A_SURVIVAL]
-You've unlocked a new survival mode!
+你解锁了新的生存模式
 
 [YOU_UNLOCKED_ENDLESS_SURVIVAL]
-You've unlocked the endless survival mode!
+你已经解锁了生存模式无尽版
 
 [NOT_ENCOUNTERED_YET]
-(not encountered yet)
+(还没有遇到)
 
 [CLICK_TO_CONTINUE]
-Click to continue
+点击以继续
 
 [SOLD_OUT]
-Sold Out
+卖光了
 
 [COMING_SOON]
-Coming Soon
+即将出现
 
 [ZEN_ONLY_AQUATIC_PLANTS]
-You can only keep aquatic plants here. It's under water!
+在这你只能种水生植物，这是在水下！
 
 [RESTART_LEVEL_HEADER]
-Restart Level?
+重新开始本关？
 
 [RESTART_PUZZLE_HEADER]
-Restart Puzzle?
+重新开始解谜模式？
 
 [RESTART_CHALLENGE_HEADER]
-Restart Challenge?
+重新开始挑战模式？
 
 [RESTART_SURVIVAL_HEADER]
-Restart Survival?
+重新开始生存模式？
 
 [RESTART_LEVEL_BODY]
-Do you want to try this level 
-again from the beginning?
+你想要重新尝试本关吗？
 
 [RESTART_PUZZLE_BODY]
-Do you want to try this puzzle
-again from the beginning?
+你想要重新尝试这个解谜关卡吗？
 
 [RESTART_CHALLENGE_BODY]
-Do you want to try this challenge
-again from the beginning?
+你想要重新尝试这个挑战吗？
 
 [RESTART_SURVIVAL_BODY]
-Do you want to try this survival 
-level again from the beginning?
+想要从头再尝试一次这个生存关卡吗？
 
 [SILVER_SUNFLOWER_TOOLTIP]
-Collect all the trophies in mini-games, puzzle, & survival to get the Gold Sunflower Trophy!
+收集齐所有迷你游戏, 解谜模式和生存模式里的战利品, 将获得金色向日葵! 
 
 [GOLD_SUNFLOWER_TOOLTIP]
-You've finished 
-adventure 1 time!
+你已经完成1次冒险咯! 
 
 [GOLD_SUNFLOWER_TOOLTIP_PLURAL]
-You've finished 
-adventure {COUNT} times!
+你已经完成{COUNT} 次冒险！
 
 [TREE_OF_WISDOM_1]
-Thank you for feeding me! Keep giving me food and I'll give you valuable information!
+谢谢你给我施肥！继续施肥，我
+将给你有价值的信息！
 
 [TREE_OF_WISDOM_2]
-Chompers and wall-nuts work exceedingly well together. It's no surprise, considering they were roommates in college.
+大嘴花和坚果墙，能够一起发挥
+最大的效用——这并不奇怪，因
+为他们上大学时是舍友。 
 
 [TREE_OF_WISDOM_3]
-If you ever listen to anything I say, listen to this: you want two columns of sunflowers. I'm dead serious here.
-
+如果你真的在听我说话，那就竖
+起耳朵听：种两排向日葵吧——
+我可是非常，非常认真的！
+ 
 [TREE_OF_WISDOM_4]
-Snorkel zombies. I hate 'em. How do I deal? Wall-nuts on lily pads, that's how.
+潜水僵尸？真是讨厌！怎么处置
+他们？我的建议是：在睡莲上种
+植坚果墙，就是这样。
 
 [TREE_OF_WISDOM_5]
-Pssst! Try typing 'future' while playing to experience zombies... from the FUTURE!
+嗯，试试在游戏时输入“futur
+e”……以期会晤来自“未来”
+的僵尸！
 
 [TREE_OF_WISDOM_6]
-How many cherry bombs does it take to take down a Gargantuar? Here's a hint: more than one, fewer than three. Here's a more explicit hint: Two.
+究竟需要多少樱桃炸弹才能解决
+掉巨型僵尸？提示：多于一个，
+少于三个。进一步提示：两个。
+
 
 [TREE_OF_WISDOM_7]
-If you're looking for mushroom plants for your Zen Garden, you'll have better luck playing on levels where it's nighttime.
+如果你想为自己的禅镜花园添加
+一些蘑菇，那么最好尝试一些晚
+上的关卡。
 
 [TREE_OF_WISDOM_8]
-I wouldn't worry about permanently damaging your lawn with doom-shrooms. In time the earth heals itself.
+我可不担心，毁灭蘑菇不会对草
+地造成永久破坏——大地会通过
+时间来治愈自己。
 
 [TREE_OF_WISDOM_9]
-Have you tried clicking on the flowers on the main menu? Give it a shot! I'll wait here.
+有没有尝试过，点击主菜单上的
+花朵呢？试试看！我在这儿等着
+。
 
 [TREE_OF_WISDOM_10]
-Legend has it that frozen zombies eat slower. I'm here to tell that legend has its facts straight.
+传说被冰冻的僵尸吃得比较慢，
+我认为传说是有它的道理的。
 
 [TREE_OF_WISDOM_11]
-Have you heard of the elusive Yeti Zombie? Some say he likes hiding where it's pitch black.
+你听说过隐藏的僵尸雪人吗？有
+人说他喜欢躲在暗处。
 
 [TREE_OF_WISDOM_12]
-What's cheaper than free? Nothing! That's why puff-shrooms are essential on all night levels! 
+有什么比免费还要便宜的？没有
+！这就小喷菇，在所有夜晚关卡
+都必不可少！
 
 [TREE_OF_WISDOM_13]
-Are you hoping to find water plants for your Zen Garden? I bet my phloem you'll have the most luck searching in pool levels.
+你想不想给你的禅境花园里，找
+一些水生植物？我用我的肚皮打
+赌，你会在池塘关卡里碰到好运
+。
 
 [TREE_OF_WISDOM_14]
-Have you noticed that Gargantuars sometimes use OTHER ZOMBIES to bash your plants?  Whatever works, I guess.
+你注意到过吗？巨人僵尸有时候
+会用其他的僵尸，来砸你的植物
+？我也不知道这是怎么回事。
 
 [TREE_OF_WISDOM_15]
-Stinky the Snail sure loves his chocolate. Maybe loves it a little too much, you know? He won't sit still for an hour after he's had some.
+臭臭蜗牛显然很喜欢他的巧克力
+。或许有点太过喜欢了，你知道
+吗？吃过一些巧克力后，他一刻
+也不愿静下来。 
 
 [TREE_OF_WISDOM_16]
-If you think playing survival 'endless' mode only drops pool-style plants for your Zen Garden, think again!  It drops everything-style.
+若你认为玩生存模式无尽版，只
+会出现水生植物的话，再好好想
+想吧！这里可是会有每种植物的
+。 
 
 [TREE_OF_WISDOM_17]
-Often the question is asked: where do you find chocolate? A better question would be: where DON'T you find chocolate? It drops in every game mode!
+ 人们总会这样问：你在哪里能
+找到巧克力呢？也许这样问更恰
+当：你在哪里会找不到巧克力？
+在每一种模式中都会掉落巧克力
+！ 
 
 [TREE_OF_WISDOM_18]
-Grave Busters, eh? Pick 'em only when you can see graves on the right side of the screen along with the zombies. That's what I do.
+ 墓碑吞噬者是吧？你最好在右
+侧那边有墓碑时，才选择他们。
+换了我就会这么做。
 
 [TREE_OF_WISDOM_19]
-I've heard that Buckethead zombies take five times as many hits as regular ones.
+ 我听说，水桶拥有一般僵尸五
+倍的防御。
 
 [TREE_OF_WISDOM_20]
-I hear that typing 'mustache' brings about a terrifying transformation in the undead!
+我听说输入“mustache”，会给
+僵尸们带来惊人的改变！
 
 [TREE_OF_WISDOM_21]
-Do multiple Snow-peas in a row slow zombies down more than just one? The sad but truthful answer is 'Nay.'
+ 多个寒冰豌豆，能让僵尸们变
+得更慢吗？真相是残酷的：不会
+。
 
 [TREE_OF_WISDOM_22]
-You know that zombies emerge from gravestones, right? So what's stopping you from using grave busters to get rid of them in Survival night? Is it pride?
+我想你知道僵尸会从墓碑出现，
+对吧？用墓碑吞噬者来摆脱他们
+，没理由能阻止你这样做？
 
 [TREE_OF_WISDOM_23]
-If you're looking for the inside info on how long a level's going to be, count the flags on the level meter. That'll set you up real nice.
+ 若你想知道某关的剩余时间，
+数数关卡表上的旗帜。他们会很
+好地告诉你。
 
 [TREE_OF_WISDOM_24]
-Roof cleaners. Classic items. Can't recommend them highly enough. Best thing about them? They give you a shot at beating Pogo Party.
+屋顶清理车，经典道具，强烈推
+荐。最大的优点？它们会在跳跳
+舞会中多给你一次机会。
 
 [TREE_OF_WISDOM_25]
-If you're wondering if feeding a hypno-shroom to a dancer zombie compels him to summon backup dancers for you, bet it all on 'Yes.'
+ 给一个舞王僵尸喂催眠蘑菇，
+他会为你召唤伴舞僵尸吗？答案
+是肯定的！
 
 [TREE_OF_WISDOM_26]
-Make Money Fast! By Playing Survival Endless! Then E-mail Me Your Bank Account Number!
+想快速致富吗？那就玩生存模式
+无尽版吧！然后记得把你的银行
+账号发送给我！
 
 [TREE_OF_WISDOM_27]
-You'd think torchwoods would douse snow peas. And you'd be correct, because you, my friend, are one smart cookie.
+ 你可能想过火炬树桩会弄灭冰
+豆。那么你是对的，因为你，我
+的朋友，是个聪明的家伙。
 
 [TREE_OF_WISDOM_28]
-Those hateful ZomBotany zombies! Who do they think they are, shooting at your plants? It's a good thing wall-nuts stop 'em cold.
+ 这些可恨的植物僵尸！他们以
+为自己是谁，竟然敢向你的植物
+开火？坚果墙会让他们好好冷静
+一下．
 
 [TREE_OF_WISDOM_29]
-The Pogo Party and Bobsled Bonanza mini-games are really, really, really difficult. Wanna drop one of the 'reallys' off that description? Use the squash.
+ 跳跳舞会和滑车当道，这两个
+游戏非常非常非常地难。想去掉
+上一句话中的一个“非常”吗？
+快使用窝瓜吧。 
 
 [TREE_OF_WISDOM_30]
-Just when you thought jalapenos couldn't be any more useful, a Tree of Wisdom lets you know that they also destroy the Zomboni's ice trails! BAM!
+ 当你认为火爆辣椒一无是处的
+时候 ，让智慧树来告诉你，他
+们也能摧毁僵尸们的冰道！嘭！
+
 
 [TREE_OF_WISDOM_31]
-Once you buy the imitater, try clicking the little drawing in the upper left corner of your Almanac to access the entry on that sucker.
+ 当你买了模仿者后，试着点击
+图鉴里左上角的小图表，以激活
+根枝的进入。
 
 [TREE_OF_WISDOM_32]
-The number of coins you receive in Wall-nut Bowling is proportional to how cool you are as measured by how many ricochets per nut you can pull off.
+ 在坚果墙保龄球游戏里，打倒
+越多，你能得到的硬币也就越多
+。
 
 [TREE_OF_WISDOM_33]
-Please do not tap on the glass! Or actually, go ahead; right-click on your Aquarium Garden or during Zombiquarium to deafen your underwater creatures.
+请不要拍玻璃！ 或实际上，请
+便；右击水族馆花园或僵尸水族
+馆，来震那些水下生物
 
 [TREE_OF_WISDOM_34]
-When I was just an acorn my grampa told me, 'Son, Vasebreaker puzzles are much easier if you break the vases on the right side first.' 
+ 当我还是一颗橡树种子的时候
+，我的爷爷告诉我：“孩子，如
+果你从右边开始动手，砸花瓶游
+戏会变得简单得多。”
 
 [TREE_OF_WISDOM_35]
-Dancers in I, Zombie may seem expensive, but in the right situation they're worth every penny.
+我是僵尸模式中，舞王僵尸看起
+来有点贵，但是在需要的时候，
+它绝对对得起你花的每一分钱。
+
 
 [TREE_OF_WISDOM_36]
-I had a dream. In it, cattail spikes popped balloons and dropped zombies to the ground. I don't know what it means.
+ 我做过一个梦，在梦里，香蒲
+的刺刺破了气球，，然后僵尸就
+摔在了地上。我不知道这个梦有
+什么含义。
 
 [TREE_OF_WISDOM_37]
-Growing aquatic plants in your Zen Garden is pretty much impossible without the Aquarium Garden. Just saying.
+如果没有水族馆，想在禅境花园
+里种水生植物，恐怕不太可能呢
+。呃……我只是随便说说。
 
 [TREE_OF_WISDOM_38]
-Digger zombies violate the natural order with their subterranean ways. It's only fair to use magnet-shrooms to steal their mining picks.
+ 矿工僵尸的这种钻地行为，简
+直就是违反自然法则的犯规，用
+磁力菇吸走他们的采矿锄！这才
+算公平。
 
 [TREE_OF_WISDOM_39]
-Every day brings new challenges and opportunities. Oh, and new marigolds in Crazy Dave's shop.
+ 每一天都有新的挑战，都有新
+的机遇，哦，还有疯狂戴夫商店
+里新的金盏花。
 
 [TREE_OF_WISDOM_40]
-Mushroom Garden! Huh! What is it good for? Absolutely nothin'! Except growing mushrooms, that is.
+蘑菇园！嗯！它有什么作用？很
+明显，它只能够用来种蘑菇，就
+是这样！
 
 [TREE_OF_WISDOM_41]
-Tired? Depressed? Ladders on tall-nuts getting you down? A quick magnet-shroom will whisk your cares away!
+ 累了？郁闷了？架在高坚果上
+的梯子让你不爽了？ 一个磁力
+菇能快速的让这些消失！
 
 [TREE_OF_WISDOM_42]
-The tallness of tall-nuts earns widespread acclaim due to their effectiveness vs. Dolphin Riders and Pogo Zombies.
+高坚果的高度赢得了大家的称赞
+，因为他们对付海豚骑士僵尸、
+跳跳僵尸很有一套。
 
 [TREE_OF_WISDOM_43]
-The explosive force of a cherry bomb or jalapeno is more than capable of dislodging a ladder from a Wall-nut.
+樱桃炸弹、火爆辣椒爆发出的力
+量，和把梯子从坚果墙上推倒的
+力量，前者要大得多。
 
 [TREE_OF_WISDOM_44]
-It's tempting to feed all your chocolate to Stinky the Snail. He's such a chocolate hog. But remember: Zen Garden plants like chocolate too!
+把全部的巧克力喂给臭臭蜗牛？
+确实很诱惑。他真的是非常喜欢
+巧克力。但是别忘了：禅境花园
+里的植物也喜欢巧克力！
 
 [TREE_OF_WISDOM_45]
-Torchwood fire is hotter than rage, but Zombonis, screen doors, ladders and catapults can take the heat.
+ 火炬树桩之火异常之猛烈，但
+是僵尸，铁栅栏，扶梯和投掷车
+可以承受热量
 
 [TREE_OF_WISDOM_46]
-If you rely on upgrade plants in Survival: Endless, be acutely aware that they get more expensive the more you have on your lawn.
+若你在生存模式里依赖于升级植
+物，要注意你在草地上有越多的
+该植物，将使该植物变得更贵。
+
 
 [TREE_OF_WISDOM_47]
-The Imps in I, Zombie seem weak. But they're speedy and great for fetching that last brain when you've cleared the rest of the opposition.
+小鬼在“我是僵尸”中看起来很
+弱。但当你清除了其他敌人的时
+候，他们会为那诱人的脑子变得
+极快。
 
 [TREE_OF_WISDOM_48]
-If you type 'trickedout,' don't be surprised if you see something wacky happen to your lawnmowers.
+如果你输入“trickedout”，不
+要惊讶，如果你割草机上发生了
+怪事。
 
 [TREE_OF_WISDOM_49]
-Thank you for feeding me! I'm out of new wisdom for now, but I might have more if you grow me tall enough!
+谢谢你喂我！我现在有点缺乏新
+的智慧了。但是如果你把我种的
+更高，我会拥有更多智慧的！
 
-[TREE_OF_WISDOM_101]
-Mmmm, I could sure use some yummy fertilizer!
+ [TREE_OF_WISDOM_101]
+呣，我确信我享用了些美味的?
+柿希?
 
 [TREE_OF_WISDOM_102]
-I think I've seen that cloud before.
+我觉得我以前看过云。
 
 [TREE_OF_WISDOM_103]
-Don't mind me. I'll just be over here, growing.
+别管我。我会在这慢慢长高的。
+
 
 [TREE_OF_WISDOM_104]
-I'm metabolizing like crazy!
+我正疯狂代谢中！
 
 [TREE_OF_WISDOM_105]
-I'll never get why you animals spend all day moving around like you do.
+我老是不明白，动物们怎么也像
+你一样，喜欢整天到处走来走去
+。
 
 [TREE_OF_WISDOM_106]
-I experience time at a vastly slower rate than you!
+时间对我来说过得更慢！
 
 [TREE_OF_WISDOM_107]
-I think I'm perennial!
+我想我是多年生的！
 
 [TREE_OF_WISDOM_108]
-My xylem is tingling!
+我的木质部发麻了！
 
 [TREE_OF_WISDOM_109]
-You can get a lot of wisdom just by standing around.
+你只要站在我身边，就能得到很
+多很多的智慧。
 
 [TREE_OF_WISDOM_110]
-So I've heard about this "winter" dealie. Can't say I'm looking forward to it.
+我听说过“冬天”。不得不说我
+很期待呢。
 
 [TREE_OF_WISDOM_201]
-Mmmm... sunlight is DELICIOUS!
+嗯嗯…… 阳光真是 美味啊！
 
 [TREE_OF_WISDOM_202]
-Oops, sorry... I just gave off some oxygen.
+哦，不好意思……我刚释放了点
+氧气。
 
 [TREE_OF_WISDOM_203]
-Gosh, I can grow leaves!
+天啊，我长叶子了！
 
 [TREE_OF_WISDOM_204]
-I feel a spurt coming on! 
+我感觉我要爆发了！
 
 [TREE_OF_WISDOM_205]
-At this stage I lack worldly knowledge!
+眼下我缺少一些世间的知识！
 
 [TREE_OF_WISDOM_301]
-I really appreciate all the cash you're spending on fertilizer!
+对于你为我在肥料上花销，我真
+的真的很感激，！
 
 [TREE_OF_WISDOM_302]
-That cloud looks just like a vast aggregation of water droplets!
+那朵云看起来好像一个大水滴哦
+！
 
 [TREE_OF_WISDOM_303]
-Have you met my cousin Yggdrasil? Very big in Sweden. Lots of fans.
+你见过我的堂兄宇宙树了吗？很
+大！住在瑞典，有好多粉丝呢。
+
 
 [TREE_OF_WISDOM_304]
-I'm taking sociology at an online college. I'm really learning a lot.
+我正在一所网上大学学习社会学
+，我真的学到了很多。
 
 [TREE_OF_WISDOM_305]
-After careful observation I've deduced that it is the Earth that revolves around the sun and not the reverse as it appears.
+经过我仔细的观察后，我推断出
+是地球围着太阳转，不是我们看
+到的那样，似乎是太阳绕着地球
+转。
+
 
 [TREE_OF_WISDOM_401]
-When you've been around as long as I have, you sleep less and hallucinate more.
+当你活得和我一样长时，你会睡
+得更少而更易产生幻觉。
 
 [TREE_OF_WISDOM_402]
-If you're mistaking the forest for the trees, just remember: A forest is a collection of individual trees and not the other way around.
+如果你弄不明白，什么是森林什
+么是树，只要记住。森林是树木
+个体的集合，反过来则不是。
 
 [TREE_OF_WISDOM_403]
-History repeats itself but it always gets the details wrong.
+历史不停重复着他自己，但是某
+些细节总有所不同。
 
 [TREE_OF_WISDOM_404]
-If the past, present and future all simultaneously exist as "block time", surely the experience of "now" can only be an elaborate illusion?
+如果说过去，现在和将来，同时
+存在作为一个“轮回”，那么经
+验上的“现在”，只能说是精心
+制作的幻觉？
 
 [TREE_OF_WISDOM_405]
-Courage is easy; dedication costs extra.
+勇气易得，奉献难求。
 
 [TREE_OF_WISDOM_500]
-Here's some wisdom that bears repeating...
+这些是久经考验的智慧……
 
 [TREE_OF_WISDOM_600]
-Tree food, please!
+请给我点吃的吧！
 
 [TREE_OF_WISDOM_800]
-Hey, I'm 100 feet tall! Celebrate with me by typing 'daisies' to get the zombies to leave tiny daisies behind when they die.
+嘿，我都100英尺高了！庆祝下
+吧！输入“daisies”，让僵尸
+们死的时候留下一朵小菊花。
 
 [TREE_OF_WISDOM_900]
-Whoa! I'm 500 feet tall! This calls for some dancing!  Type 'dance' to get the zombies to boogie on down!
+啊哈！我500英尺高了！来点舞
+蹈吧！输入“dance”，让僵尸
+们都摇摆起来吧！
 
 [TREE_OF_WISDOM_1000]
-WOW! I'm 1000 feet tall! Celebrate with me by typing 'pinata' to make zombies spit out candy when destroyed!
+喔！我已经1000英尺高了！和我
+一起输入“pinata”，让僵尸们
+死的时候吐出糖果，来庆祝吧！
+
 
 [TREE_OF_WISDOM_1100]
-Thank you for feeding me! I've given you all my wisdom, but you can still grow me taller!
+谢谢你的照料！我可以给你我所
+有的智慧，但是你也可以让我长
+的更高！
 
 [TREE_OF_WISDOM_HIEGHT]
-{HEIGHT} Feet Tall
+{HEIGHT}
 
 [UNLOCKED_MINIGAMES]
-Mini-games unlocked!
-Play them from the main menu!
+迷你游戏解锁！ 可从主菜单中进入该模式！
 
 [UNLOCKED_PUZZLE_MODE]
-Puzzle mode unlocked!
-Play it from the main menu!
+解谜模式解锁！ 可从主菜单中进入该模式！
 
 [UNLOCKED_SURVIVAL_MODE]
-Survival mode unlocked!
-Play it from the main menu!
+生存模式解锁！ 可从主菜单中进入该模式！
 
 [CREDITS_GAMENAME]
-PLANTS VS. ZOMBIES
+植物大战僵尸
 
 [CREDITS_NAMES1]
 {CREDITS1}GEORGE FAN
@@ -2980,93 +3456,93 @@ MATT HOLMBERG
 STEPHEN NOTLEY
 
 [CREDITS_ROLES1]
-{CREDITS1}GAME DESIGN
+{CREDITS1}游戏设计
 PROGRAMMING
-ART
-MUSIC & SOUND
-BACKGROUND ART
-UI ART
-WRITING
+ART 音乐 & 音效
+BACKGROUND ART 背景设计
+UI ART 界面设计
+WRITING  背景设计/界面设计/脚本
 
-[CREDITS_NAMES2]
+ [CREDITS_NAMES2]
 {CREDITS2}SUKHBIR SIDHU
 MIKE RACIOPPI
-SHAWN CONARD, ED MILLER, ADAM MACDONNELL
-BRIAN FIETE, CHRIS HARGROVE, DAVID PARTON
-DAVID P. WYCLIFF
-JASON KAPALKA, JOHN VECHEY, DAVE HAAS, 
-DAVE ROBERTS, ED BROWN, LINDSEY KURZ, 
-JEFF GATES, MYSTICSAGE, DAVE ROHRL, 
-POPCAP BETA TESTERS
+SHAWN CONARD， ED MILLER， ADAM MACDONNELL
+BRIAN FIETE， CHRIS HARGROVE， DAVID PARTON
+DAVID P。 WYCLIFF
+JASON KAPALKA， JOHN VECHEY， DAVE HAAS，
+DAVE ROBERTS， ED BROWN， LINDSEY KURZ，
+JEFF GATES， MYSTICSAGE， DAVE ROHRL，
+POPCAP BETA TESTERSPOPCAP 测试员
 
 [CREDITS_ROLES2]
 {CREDITS2}STUDIO DIRECTOR
 QA LEAD
 QA TESTING
 POPCAP FRAMEWORK
-MARMOT SALESMAN
-SPECIAL THANKS
+MARMOT
+SALESMAN 
+SPECIAL THANKS 
+工作室监督；质监负责人；游戏检测；特别感谢
 
 [CREDITS_THANKS]
-THANK YOU FOR PLAYING!
+谢谢参与游戏
 
 [CREDITS_REPLAY_BUTTON]
-REPLAY
+重播
 
 [CREDITS_MAIN_MENU_BUTTON]
-MAIN MENU
+主菜单
 
 [VISIT_TREE_HEADER]
-Visit Tree?
+拜访智慧树？
 
 [VISIT_TREE_BODY]
-Do you want to visit the Tree of Wisdom now?
+你想现在拜访智慧树吗？
 
 [CREDITS_PAUSE_HEADER]
-CREDITS PAUSED
+暂停播放播放制作名单 
 
 [CREDITS_PAUSE_BODY]
-Click to resume the credits. 
-
-You can also view the credits later 
-from the options on the main menu.
+点击回到制作名单。 
+  
+你也可以以后由菜单选项观看制作名单。 
 
 [CREDITS_RESUME_BUTTON]
-Resume Credits
+继续播放制作名单
 
 [GET_FULL_VERSION_BUTTON]
-Get Full Version
+购买完全版
 
 [UPSELL_PAUSE_HEADER]
-PAUSED
+ 暂停
 
 [UPSELL_PAUSE_BODY]
-Click to resume to continue. 
+点击返回继续游戏。
 
 [UPSELL_RESUME_BUTTON]
-Resume
+返回
 
 [INTRO_PRESENTS]
-PopCap Games Presents
+PopCap Games 出品
 
 [CANT_USE_CODE]
-You don't have a tall enough Tree of Wisdom for that!
+你的智慧树还不够高！
 
 [ADVENTURE_COMPLETE_HEADER]
-Adventure Complete
+完成冒险
 
 [ADVENTURE_COMPLETE_BODY]
-More Mini-Games, Puzzle, and Survival Modes have been unlocked! Also, check out the new items in Crazy Dave's shop!
+新的迷你游戏, 解谜模式和生存模式, 都被解开了! 疯狂戴夫的店里也有新道具啦, 快去看看吧. 
 
 [ADVICE_NEED_WHEELBARROW]
-To move your plants between gardens,
-purchase a wheelbarrow from the shop!
+想要在花园之间搬运植物们，需要先在商店里买辆手推车！
 
 [AVAILABLE_IN_FULL_VERSION]
-This plant is only available in the FULL VERSION!
+此植物仅可在完全版中使用！
+
 
 [REPLAY_LEVEL_HEADER]
-Replay level?
+重玩此关？
 
 [REPLAY_LEVEL_BODY]
-Do you wish to replay level 3-4?
+重玩3-4关吗？

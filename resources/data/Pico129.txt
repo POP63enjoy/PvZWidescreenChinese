@@ -20,7 +20,7 @@ Define WidthList
      6,   9,   9,   7,   7,   7,   7,   7,   7,   7,  12,   7,   7,   7,   7,   7,
      5,   5,   5,   5,   8,   7,   7,   7,   7,   7,   7,   9,   7,   7,   7,   7,
      7,   7,   7,   7,   7,   7,   7,   7,  11,   7,   7,   7,   7,   7,   3,   3,
-     3,   3,   7,   7,   7,   7,   7,   7,   7,   9,   7,   7,   7,   7,   7,   7);
+     3,   3,   7,   7,   7,   7,   7,   7,   7,   9,   7,   7,   7,   7,   6,   19);
 
 Define RectList
  ( (   0,  0,  5, 12), (   6,  0,  5, 12), (  12,  0,  5, 12), (  18,  0,  5, 12),
@@ -88,13 +88,13 @@ Define OffsetList
 
 CreateLayer               Main;
 LayerSetImage             Main 'Pico129';
-LayerSetAscent            Main 10;
+LayerSetAscent            Main 12;
 LayerSetCharWidths        Main CharList WidthList;
 LayerSetCharWidths        Main (' ') (3);
 LayerSetImageMap          Main CharList RectList;
 LayerSetCharOffsets       Main CharList OffsetList;
 LayerSetAscentPadding     Main 0;
 LayerSetLineSpacingOffset Main 0;
-LayerSetPointSize         Main 9;
+LayerSetPointSize         Main 10;
 
-SetDefaultPointSize  9;
+SetDefaultPointSize  10;
